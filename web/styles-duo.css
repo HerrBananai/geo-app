@@ -1,0 +1,228 @@
+/* ============================================================
+   Geo-Begriffe · Duolingo-Design (wird nur aktiv bei
+   <html data-design="duo">, umschaltbar in Einstellungen)
+   Knallige Farben, fette Schrift, dicke 3D-Buttons.
+   ============================================================ */
+
+/* ---------- Variablen Hell ---------- */
+html[data-design="duo"] {
+  --font-duo: "Nunito", -apple-system, BlinkMacSystemFont, "SF Pro Rounded",
+    "Helvetica Neue", "Segoe UI", Arial, sans-serif;
+  --bg: #ffffff;
+  --bg-elevated: rgba(255, 255, 255, 0.92);
+  --card: #ffffff;
+  --card-2: #f7f7f7;
+  --text: #3c3c3c;
+  --text-2: #777777;
+  --separator: #e5e5e5;
+  --edge: #e5e5e5;
+  --accent: #1cb0f6;
+  --accent-dark: #1899d6;
+  --accent-soft: rgba(28, 176, 246, 0.14);
+  --green: #58cc02;
+  --green-dark: #58a700;
+  --green-soft: rgba(88, 204, 2, 0.16);
+  --red: #ff4b4b;
+  --red-dark: #d33131;
+  --red-soft: rgba(255, 75, 75, 0.12);
+  --yellow: #ffc800;
+  --shadow: none;
+  --shadow-sm: none;
+  --radius: 16px;
+  --radius-sm: 12px;
+}
+
+/* ---------- Variablen Dunkel (explizit + System) ---------- */
+html[data-theme="dark"][data-design="duo"] {
+  --bg: #131f24;
+  --bg-elevated: rgba(19, 31, 36, 0.92);
+  --card: #202f36;
+  --card-2: #2b3d46;
+  --text: #f1f7fb;
+  --text-2: #afafaf;
+  --separator: #37464f;
+  --edge: #37464f;
+  --accent: #1cb0f6;
+  --accent-dark: #1899d6;
+  --accent-soft: rgba(28, 176, 246, 0.18);
+  --green: #58cc02;
+  --green-dark: #58a700;
+  --green-soft: rgba(88, 204, 2, 0.2);
+  --red: #ff4b4b;
+  --red-dark: #d33131;
+  --red-soft: rgba(255, 75, 75, 0.16);
+}
+@media (prefers-color-scheme: dark) {
+  html[data-theme="system"][data-design="duo"] {
+    --bg: #131f24;
+    --bg-elevated: rgba(19, 31, 36, 0.92);
+    --card: #202f36;
+    --card-2: #2b3d46;
+    --text: #f1f7fb;
+    --text-2: #afafaf;
+    --separator: #37464f;
+    --edge: #37464f;
+    --accent: #1cb0f6;
+    --accent-dark: #1899d6;
+    --accent-soft: rgba(28, 176, 246, 0.18);
+    --green: #58cc02;
+    --green-dark: #58a700;
+    --green-soft: rgba(88, 204, 2, 0.2);
+    --red: #ff4b4b;
+    --red-dark: #d33131;
+    --red-soft: rgba(255, 75, 75, 0.16);
+  }
+}
+
+/* ---------- Typo ---------- */
+html[data-design="duo"] body { font-family: var(--font-duo); font-weight: 600; }
+html[data-design="duo"] .title-wrap h1,
+html[data-design="duo"] h2.big,
+html[data-design="duo"] .hero h2,
+html[data-design="duo"] .flip-face h3,
+html[data-design="duo"] .score-big,
+html[data-design="duo"] .section-title { font-weight: 900; letter-spacing: 0; }
+html[data-design="duo"] .btn,
+html[data-design="duo"] .btn-white,
+html[data-design="duo"] .opt,
+html[data-design="duo"] .mode-tile b { font-weight: 800; }
+html[data-design="duo"] .eyebrow { color: var(--green); }
+
+/* ---------- Karten & Blobs ---------- */
+html[data-design="duo"] .card,
+html[data-design="duo"] .flip-face,
+html[data-design="duo"] .mode-tile {
+  border: 2px solid var(--edge);
+  box-shadow: none;
+}
+html[data-design="duo"] .blob { opacity: 0.35; }
+
+/* ---------- 3D-Buttons ---------- */
+html[data-design="duo"] .btn {
+  border-radius: 14px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding: 15px 22px;
+}
+html[data-design="duo"] .btn-primary {
+  background: var(--green);
+  border: 2px solid var(--green-dark);
+  box-shadow: 0 4px 0 var(--green-dark);
+  color: #fff;
+}
+html[data-design="duo"] .btn-primary:active { transform: translateY(4px); box-shadow: none; }
+html[data-design="duo"] .btn-plain {
+  background: var(--card);
+  border: 2px solid var(--edge);
+  box-shadow: 0 4px 0 var(--edge);
+  color: var(--text);
+}
+html[data-design="duo"] .btn-plain:active { transform: translateY(4px); box-shadow: none; }
+html[data-design="duo"] .btn-tonal {
+  background: var(--accent-soft);
+  border: 2px solid transparent;
+  box-shadow: 0 4px 0 var(--accent-soft);
+  color: var(--accent);
+}
+html[data-design="duo"] .btn-tonal:active { transform: translateY(4px); box-shadow: none; }
+html[data-design="duo"] .btn-white {
+  border: 2px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.25);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+html[data-design="duo"] .btn-white:active { transform: translateY(4px); box-shadow: none; }
+
+/* ---------- Hero ---------- */
+html[data-design="duo"] .hero {
+  background: var(--green);
+  border: 2px solid var(--green-dark);
+  box-shadow: 0 4px 0 var(--green-dark);
+}
+html[data-design="duo"] .hero::after { display: none; }
+
+/* ---------- Level-Karte ---------- */
+.level-badge {
+  width: 52px; height: 52px; flex: none;
+  border-radius: 50%;
+  background: var(--yellow);
+  border: 2px solid #e0a800;
+  box-shadow: 0 4px 0 #e0a800;
+  color: #7a5200;
+  font-weight: 900; font-size: 22px;
+  display: flex; align-items: center; justify-content: center;
+}
+.level-card b { font-size: 17px; }
+
+/* ---------- Fortschrittsbalken ---------- */
+html[data-design="duo"] .progress-track { height: 14px; background: var(--edge); }
+html[data-design="duo"] .progress-fill { background: var(--green); }
+
+/* ---------- Quiz-Optionen ---------- */
+html[data-design="duo"] .opt {
+  border: 2px solid var(--edge);
+  box-shadow: 0 4px 0 var(--edge);
+  border-radius: 14px;
+  text-transform: none;
+}
+html[data-design="duo"] .opt:active { transform: translateY(4px); box-shadow: none; }
+html[data-design="duo"] .opt.correct {
+  background: var(--green-soft);
+  border-color: var(--green);
+  box-shadow: 0 4px 0 var(--green);
+}
+html[data-design="duo"] .opt.wrong {
+  background: var(--red-soft);
+  border-color: var(--red);
+  box-shadow: 0 4px 0 var(--red);
+}
+html[data-design="duo"] .xp-gained { color: var(--green); font-weight: 900; font-size: 22px; margin: 0 0 12px; }
+
+/* ---------- Paare ---------- */
+html[data-design="duo"] .m-left {
+  border: 2px solid var(--edge);
+  box-shadow: 0 4px 0 var(--edge);
+}
+html[data-design="duo"] .m-left.sel {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  box-shadow: 0 4px 0 var(--accent);
+  color: var(--accent);
+}
+html[data-design="duo"] .m-left.done {
+  background: var(--green-soft);
+  border-color: var(--green);
+  box-shadow: 0 4px 0 var(--green);
+}
+html[data-design="duo"] .m-right { border: 2px solid var(--edge); }
+html[data-design="duo"] .m-right.done { border-color: var(--green); }
+html[data-design="duo"] .m-right.err { border-color: var(--red); }
+html[data-design="duo"] .m-left:active, html[data-design="duo"] .m-right:active { transform: translateY(2px); }
+
+/* ---------- Header-Stats (nur Duo sichtbar) ---------- */
+.duo-stats { display: none; }
+html[data-design="duo"] .duo-stats { display: flex; align-items: center; gap: 10px; }
+.duo-pill { display: inline-flex; align-items: center; gap: 4px; font-weight: 800; font-size: 15px; }
+.duo-pill svg { width: 20px; height: 20px; }
+.duo-pill .flame-nr { color: #ff9600; }
+.duo-pill .gem-nr { color: var(--accent); }
+
+/* ---------- Rest ---------- */
+html[data-design="duo"] .pill-cat { background: var(--green-soft); color: var(--green); }
+html[data-design="duo"] .filter-chip { border: 2px solid var(--edge); }
+html[data-design="duo"] .filter-chip.on { background: var(--accent); border-color: var(--accent-dark); color: #fff; }
+html[data-design="duo"] .tabbar { border-top: 2px solid var(--edge); }
+html[data-design="duo"] .tab.active { color: var(--accent); }
+html[data-design="duo"] .search { border: 2px solid var(--edge); }
+html[data-design="duo"] .search:focus { border-color: var(--accent); }
+html[data-design="duo"] .term-check.done { background: var(--green); }
+html[data-design="duo"] .icon-btn { border: 2px solid var(--edge); }
+html[data-design="duo"] .icon-btn.on { border-color: transparent; }
+html[data-design="duo"] .progress-pill { border: 2px solid var(--edge); box-shadow: none; }
+html[data-design="duo"] .seg { border: 2px solid var(--edge); }
+html[data-design="duo"] .seg button.on { box-shadow: none; }
+html[data-design="duo"] .toast { background: #4b4b4b; border-radius: 14px; }
+html[data-design="duo"] .tile-icon.t-blue { background: rgba(28, 176, 246, 0.15); color: var(--accent); }
+html[data-design="duo"] .install-banner { border: 2px solid var(--edge); box-shadow: none; }

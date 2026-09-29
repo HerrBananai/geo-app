@@ -1,0 +1,86 @@
+[
+  {
+    "id": "erosion",
+    "begriff": "Erosion (PLATZHALTER)",
+    "definition": "Abtragung von Gestein und Boden durch Wasser, Wind oder Eis.",
+    "beispiel": "Ein Fluss trägt Erde an der Böschung ab.",
+    "kategorie": "Geomorphologie"
+  },
+  {
+    "id": "delta",
+    "begriff": "Delta (PLATZHALTER)",
+    "definition": "Mündungsform eines Flusses mit fächerförmiger Aufschüttung von Sedimenten.",
+    "beispiel": "Das Nildelta in Ägypten.",
+    "kategorie": "Gewässer"
+  },
+  {
+    "id": "klima",
+    "begriff": "Klima (PLATZHALTER)",
+    "definition": "Langjähriger Mittelwert von Wettererscheinungen einer Region.",
+    "beispiel": "Maritimes vs. kontinentales Klima.",
+    "kategorie": "Klima"
+  },
+  {
+    "id": "platte",
+    "begriff": "Plattentektonik (PLATZHALTER)",
+    "definition": "Bewegung der Lithosphärenplatten auf dem Erdmantel.",
+    "beispiel": "Erdbeben am Plattenrand.",
+    "kategorie": "Geologie"
+  },
+  {
+    "id": "urbanisierung",
+    "begriff": "Urbanisierung (PLATZHALTER)",
+    "definition": "Wachstum der Städte und des Anteils der Stadtbevölkerung.",
+    "beispiel": "Zuzug vom Land in die Stadt.",
+    "kategorie": "Humangeographie"
+  },
+  {
+    "id": "wetter",
+    "begriff": "Wetter (PLATZHALTER)",
+    "definition": "Aktueller Zustand der Atmosphäre an einem Ort.",
+    "beispiel": "Regen, Sonne, Wind heute.",
+    "kategorie": "Klima"
+  },
+  {
+    "id": "gletscher",
+    "begriff": "Gletscher (PLATZHALTER)",
+    "definition": "Sich bewegende Eismasse aus verdichtetem Schnee.",
+    "beispiel": "Aletschgletscher in der Schweiz.",
+    "kategorie": "Geomorphologie"
+  },
+  {
+    "id": "bewaesserung",
+    "begriff": "Bewässerung (PLATZHALTER)",
+    "definition": "Künstliche Zufuhr von Wasser für die Landwirtschaft.",
+    "beispiel": "Tröpfchenbewässerung im Trockenfeldanbau.",
+    "kategorie": "Agrargeographie"
+  },
+  {
+    "id": "metropole",
+    "begriff": "Metropole (PLATZHALTER)",
+    "definition": "Großstadt mit überregionaler politischer und wirtschaftlicher Bedeutung.",
+    "beispiel": "Berlin als Beispiel.",
+    "kategorie": "Humangeographie"
+  },
+  {
+    "id": "sediment",
+    "begriff": "Sediment (PLATZHALTER)",
+    "definition": "Ablagerung von Gesteinsmaterial durch Wind, Wasser oder Eis.",
+    "beispiel": "Sandbank im Fluss.",
+    "kategorie": "Geologie"
+  },
+  {
+    "id": "treibhaus",
+    "begriff": "Treibhauseffekt (PLATZHALTER)",
+    "definition": "Erwärmung der Erde durch Spurengase, die Wärmestrahlung zurückhalten.",
+    "beispiel": "CO2 als Treibhausgas.",
+    "kategorie": "Klima"
+  },
+  {
+    "id": "migration",
+    "begriff": "Migration (PLATZHALTER)",
+    "definition": "Wanderung von Menschen über Grenzen oder innerhalb eines Landes.",
+    "beispiel": "Arbeitsmigration in Ballungsräume.",
+    "kategorie": "Humangeographie"
+  }
+]

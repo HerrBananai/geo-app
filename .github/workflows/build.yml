@@ -1,0 +1,47 @@
+name: Build APK + IPA
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  apk:
+    name: Android APK
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: 3.24.0
+      - name: Native-Hüllen erzeugen (falls fehlend)
+        run: flutter create --project-name geo_app --org com.example.geoapp .
+      - name: Abhängigkeiten
+        run: flutter pub get
+      - name: APK bauen
+        run: flutter build apk --release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: geo-app-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+
+  ipa:
+    name: iOS IPA (unsigniert)
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: 3.24.0
+      - name: Native-Hüllen erzeugen (falls fehlend)
+        run: flutter create --project-name geo_app --org com.example.geoapp .
+      - name: Abhängigkeiten
+        run: flutter pub get
+      - name: IPA bauen (ohne Codesigning)
+        run: flutter build ipa --release --no-codesign
+      - uses: actions/upload-artifact@v4
+        with:
+          name: geo-app-ipa-unsigniert
+          path: build/ios/ipa/*.ipa
