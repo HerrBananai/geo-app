@@ -1,0 +1,222 @@
+/* ============================================================
+   Geo-Begriffe · Retro-Design "Windows XP" (wird nur aktiv bei
+   <html data-design="xp">, umschaltbar in Einstellungen)
+   Tahoma, Luna-Blau, silberne Buttons, Taskleisten-Tabbar.
+   ============================================================ */
+
+/* ---------- Variablen Hell ---------- */
+html[data-design="xp"] {
+  --font-xp: Tahoma, Verdana, "Segoe UI", Arial, sans-serif;
+  --bg: #3a6ea5;
+  --bg-elevated: #245edb;
+  --card: #ffffff;
+  --card-2: #ece9d8;
+  --text: #000000;
+  --text-2: #4a4a4a;
+  --separator: #919b9c;
+  --edge: #919b9c;
+  --accent: #0058e6;
+  --accent-dark: #003c74;
+  --accent-soft: #dce9fd;
+  --green: #3c9c3c;
+  --green-dark: #2c7a2c;
+  --green-soft: #e2f0da;
+  --red: #d63c2f;
+  --red-dark: #8f1f16;
+  --red-soft: #fde3e0;
+  --yellow: #ffc800;
+  --shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+  --shadow-sm: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  --radius: 8px;
+  --radius-sm: 4px;
+}
+
+/* ---------- Variablen Dunkel (explizit + System) ---------- */
+html[data-theme="dark"][data-design="xp"] {
+  --bg: #101c33;
+  --card: #1f2c4d;
+  --card-2: #27375c;
+  --text: #ffffff;
+  --text-2: #b8c4d8;
+  --separator: #3d4f7a;
+  --edge: #3d4f7a;
+  --accent: #4d9fff;
+  --accent-dark: #1c4fa0;
+  --accent-soft: #243d6b;
+  --green: #4caf50;
+  --green-dark: #2c7a2c;
+  --green-soft: #274a2e;
+  --red: #e05a4e;
+  --red-dark: #8f1f16;
+  --red-soft: #5a2a26;
+}
+@media (prefers-color-scheme: dark) {
+  html[data-theme="system"][data-design="xp"] {
+    --bg: #101c33;
+    --card: #1f2c4d;
+    --card-2: #27375c;
+    --text: #ffffff;
+    --text-2: #b8c4d8;
+    --separator: #3d4f7a;
+    --edge: #3d4f7a;
+    --accent: #4d9fff;
+    --accent-dark: #1c4fa0;
+    --accent-soft: #243d6b;
+    --green: #4caf50;
+    --green-dark: #2c7a2c;
+    --green-soft: #274a2e;
+    --red: #e05a4e;
+    --red-dark: #8f1f16;
+    --red-soft: #5a2a26;
+  }
+}
+
+/* ---------- Typo ---------- */
+html[data-design="xp"] body { font-family: var(--font-xp); font-weight: 400; }
+html[data-design="xp"] .title-wrap h1,
+html[data-design="xp"] h2.big,
+html[data-design="xp"] .hero h2,
+html[data-design="xp"] .flip-face h3,
+html[data-design="xp"] .section-title,
+html[data-design="xp"] .btn,
+html[data-design="xp"] .opt,
+html[data-design="xp"] .mode-tile b { font-weight: 700; }
+html[data-design="xp"] .eyebrow { color: var(--accent); }
+html[data-design="xp"] .blob { opacity: 0.25; }
+
+/* ---------- Titelleiste statt Frosted Glass ---------- */
+html[data-design="xp"] .app-header {
+  background: linear-gradient(180deg, #0997ff 0%, #0053ee 8%, #0050ee 40%, #0057e5 80%, #003ebc 100%);
+  border-bottom: 2px solid #0831d9;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+html[data-theme="dark"][data-design="xp"] .app-header,
+html[data-design="xp"] .app-header { border-radius: 0; }
+@media (prefers-color-scheme: dark) {
+  html[data-theme="system"][data-design="xp"] .app-header {
+    background: linear-gradient(180deg, #0a4fc0 0%, #0a2f8f 60%, #071c5e 100%);
+  }
+}
+html[data-theme="dark"][data-design="xp"] .app-header {
+  background: linear-gradient(180deg, #0a4fc0 0%, #0a2f8f 60%, #071c5e 100%);
+}
+html[data-design="xp"] .title-wrap h1 { color: #fff; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6); }
+html[data-design="xp"] .subtitle { color: #cfe4ff; }
+html[data-design="xp"] .progress-pill {
+  background: #fff; border: 2px solid #003c74; border-radius: 8px; box-shadow: none;
+}
+html[data-design="xp"] .theme-btn {
+  background: linear-gradient(180deg, #fff, #ecebe5);
+  border: 1px solid #003c74; border-radius: 4px; color: #000;
+}
+html[data-design="xp"] .duo-pill b { color: #fff; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6); }
+html[data-design="xp"] .duo-stats { display: flex; align-items: center; gap: 10px; }
+
+/* ---------- Fenster-Karten ---------- */
+html[data-design="xp"] .card,
+html[data-design="xp"] .flip-face,
+html[data-design="xp"] .mode-tile {
+  border: 2px solid #0058e6;
+  border-radius: 8px;
+}
+html[data-theme="dark"][data-design="xp"] .card,
+html[data-theme="dark"][data-design="xp"] .flip-face,
+html[data-theme="dark"][data-design="xp"] .mode-tile { border-color: #4d9fff; }
+@media (prefers-color-scheme: dark) {
+  html[data-theme="system"][data-design="xp"] .card,
+  html[data-theme="system"][data-design="xp"] .flip-face,
+  html[data-theme="system"][data-design="xp"] .mode-tile { border-color: #4d9fff; }
+}
+
+/* ---------- Buttons ---------- */
+html[data-design="xp"] .btn {
+  border-radius: 4px; text-transform: none; letter-spacing: 0; font-size: 15px;
+}
+html[data-design="xp"] .btn-primary {
+  background: linear-gradient(180deg, #67b36a 0%, #3c9c3c 50%, #359235 100%);
+  border: 2px solid #2c7a2c; box-shadow: none; color: #fff;
+}
+html[data-design="xp"] .btn-primary:active { transform: translateY(2px); }
+html[data-design="xp"] .btn-plain {
+  background: linear-gradient(180deg, #ffffff 0%, #ecebe5 86%, #d8d0c4 100%);
+  border: 1px solid #003c74; box-shadow: none; color: #000;
+}
+html[data-design="xp"] .btn-plain:active { transform: translateY(2px); }
+html[data-design="xp"] .btn-tonal {
+  background: var(--accent-soft); border: 1px solid var(--accent);
+  box-shadow: none; color: var(--accent);
+}
+html[data-design="xp"] .btn-white {
+  background: linear-gradient(180deg, #ffffff 0%, #ecebe5 86%, #d8d0c4 100%);
+  border: 2px solid #2c7a2c; box-shadow: none; color: #2c7a2c;
+  text-transform: none; letter-spacing: 0;
+}
+html[data-design="xp"] .btn-white:active { transform: translateY(2px); }
+
+/* ---------- Hero ---------- */
+html[data-design="xp"] .hero {
+  background: linear-gradient(180deg, #4cb050 0%, #3c9c3c 50%, #2c7a2c 100%);
+  border: 2px solid #1e5b1e;
+}
+html[data-design="xp"] .hero::after { display: none; }
+
+/* ---------- Level ---------- */
+html[data-design="xp"] .level-badge {
+  background: linear-gradient(180deg, #4791ff 0%, #0058e6 100%);
+  border: 2px solid #003c74; box-shadow: 0 3px 0 #003c74; color: #fff;
+}
+
+/* ---------- Balken ---------- */
+html[data-design="xp"] .progress-track {
+  height: 14px; background: #fff; border: 1px solid #7f9db9; border-radius: 2px;
+}
+html[data-design="xp"] .progress-fill {
+  background: linear-gradient(180deg, #7cbc5c 0%, #3c9c3c 100%); border-radius: 0;
+}
+
+/* ---------- Quiz / Paare ---------- */
+html[data-design="xp"] .opt {
+  border: 1px solid #003c74; border-radius: 4px; box-shadow: none; text-transform: none;
+}
+html[data-design="xp"] .opt.correct { border: 2px solid var(--green); }
+html[data-design="xp"] .opt.wrong { border: 2px solid var(--red); }
+html[data-design="xp"] .m-left { border: 1px solid #003c74; border-radius: 4px; }
+html[data-design="xp"] .m-left.sel { background: var(--accent-soft); border: 2px solid var(--accent); color: var(--accent); }
+html[data-design="xp"] .m-right { border: 2px solid var(--separator); }
+html[data-design="xp"] .quiz-q, html[data-design="xp"] .flip-face .def { font-size: 17px; }
+
+/* ---------- Taskleisten-Tabbar ---------- */
+html[data-design="xp"] .tabbar {
+  background: linear-gradient(180deg, #245edb 0%, #3f8cf3 9%, #245edb 18%, #245edb 92%, #333 100%);
+  border-top: 2px solid #0831d9;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+html[data-design="xp"] .tab { color: #d6e4ff; border-radius: 6px; }
+html[data-design="xp"] .tab.active { color: #fff; background: rgba(255, 255, 255, 0.28); }
+html[data-design="xp"] .tab[data-view="home"] {
+  background: linear-gradient(180deg, #5eac56 0%, #3c873c 50%, #2f6b2f 100%);
+  color: #fff; font-style: italic; border-radius: 0 12px 12px 0;
+}
+html[data-design="xp"] .tab[data-view="home"].active { background: linear-gradient(180deg, #5eac56 0%, #3c873c 50%, #2f6b2f 100%); }
+
+/* ---------- Rest ---------- */
+html[data-design="xp"] .pill-cat { background: #0058e6; color: #fff; }
+html[data-design="xp"] .filter-chip {
+  border: 1px solid #003c74; border-radius: 4px;
+  background: linear-gradient(180deg, #fff, #ecebe5);
+}
+html[data-design="xp"] .filter-chip.on { background: #0058e6; border-color: #003c74; color: #fff; }
+html[data-design="xp"] .search { border: 2px solid #7f9db9; border-radius: 2px; }
+html[data-design="xp"] .term-check.done { background: #3c9c3c; }
+html[data-design="xp"] .icon-btn { border: 1px solid #003c74; border-radius: 4px; }
+html[data-design="xp"] .seg { border: 1px solid #003c74; border-radius: 6px; }
+html[data-design="xp"] .seg button.on { box-shadow: none; background: #0058e6; color: #fff; }
+html[data-design="xp"] .toast {
+  background: #ffffe1; color: #000; border: 1px solid #000; border-radius: 0;
+}
+html[data-design="xp"] .install-banner { border: 2px solid #0058e6; border-radius: 8px; }
+html[data-design="xp"] .tile-icon.t-blue { background: #dce9fd; color: #0058e6; }
+html[data-design="xp"] .stufe-tag { border-radius: 3px; }
+html[data-design="xp"] .pet-stage svg { filter: drop-shadow(2px 2px 0 rgba(0, 0, 0, 0.25)); }

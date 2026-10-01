@@ -1,10 +1,11 @@
 /* Geo-Begriffe – Offline-Cache (Cache-first, gleiche Version = ein Update) */
-const CACHE = 'geo-begriffe-v2';
+const CACHE = 'geo-begriffe-v3';
 const ASSETS = [
   './',
   'index.html',
   'styles.css',
   'styles-duo.css',
+  'styles-xp.css',
   'app.js',
   'manifest.webmanifest',
   'data/terms.json',

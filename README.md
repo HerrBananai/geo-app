@@ -1,7 +1,9 @@
 # Geo-App – Geographie-Fachbegriffe lernen (Android + iOS)
 
 Eine Codebasis (Flutter) für **Android und iOS** mit interaktiven Lernmodi.
-Aktuell mit **12 Platzhalter-Begriffen** – echte Buchbegriffe kannst du mir später einfach als Liste geben.
+Mit **525 echten Fachbegriffen** (326× Q12 physische Geographie, 199× Q13 Humangeographie),
+sortiert nach **Stufe (Q12/Q13)** und **thematischen Rubriken** (z. B. Klima & Wetter,
+Böden, Stadt & Urbanisierung, Migration).
 
 ## Lernmodi
 1. **Karteikarten** – tippen zum Umdrehen, „Gewusst / Nochmal", Mischen, Filter „Nur ungelernte"
@@ -26,25 +28,30 @@ Ordner **`web/`** – kein Build nötig, läuft sofort in Safari:
   Fortschritt in `localStorage`. Begriffe aus `web/data/terms.json`
   (Kopie von `assets/data/terms.json`).
 
-## Duolingo-Theme (Web + App) + Gamification
+## Duolingo-Theme, Retro-Theme (Web + App) + Gamification
 
-- **Web:** Einstellungen → **Design** → Apple oder Duolingo (bleibt gespeichert).
+- **Web:** Einstellungen → **Design** → Apple, Duolingo oder Retro (bleibt gespeichert).
   Duolingo-Look: Nunito-Schrift, knalliges Grün, dicke 3D-Buttons.
-  Darstellung (Hell/Dunkel/System) funktioniert in beiden Designs.
+  Retro-Look: Windows-XP-Stil mit Tahoma, blauer Titelleiste und Taskleisten-Tabbar.
+  Darstellung (Hell/Dunkel/System) funktioniert in allen Designs.
 - **Flutter-App** (`lib/theme/duo.dart`): komplett im Duolingo-Stil
   (grünes Theme, 3D-Buttons, Nachtmodus).
 - **Gamification in beiden:** XP (Quiz +10, Karte +5, Paar +5), Tages-Streak
   mit Flamme, Level (alle 100 XP, z. B. Entdecker → Legende), **3 Herzen pro
   Quiz-Runde** (falsche Antwort kostet ein Herz, bei 0 ist die Runde vorbei).
   Alles lokal gespeichert (Web: `localStorage`, App: `SharedPreferences`).
+- **Nur Web:** **Edelsteine** als Währung (Quiz +5, Paare +3, neue Karte +1)
+  und **Begleiter „Krümel"** auf der Heute-Seite – vom Ei zum Freund
+  hochfüttern (10 Edelsteine pro Mahlzeit), antippen und umbenennen.
 
-## Echte Begriffe nachliefern
-Sag mir später einfach die Begriffe, z. B. so pro Begriff:
-`Begriff | Definition | Beispiel | Kategorie`
-Ich trage sie in `assets/data/terms.json` ein. Format:
+## Echte Begriffe nachliefern / aktualisieren
+Die Begriffe liegen in `assets/data/terms.json` (App) und `web/data/terms.json` (Web,
+plus eingebetteter Offline-Fallback in `web/app.js`). Format pro Begriff:
 ```json
-[{ "id": "eindeutig", "begriff": "...", "definition": "...", "beispiel": "...", "kategorie": "..." }]
+[{ "id": "eindeutig", "begriff": "...", "definition": "...", "beispiel": "...", "kategorie": "...", "stufe": "Q12" }]
 ```
+Neue Begriffe einfach als `Begriff,Definition` pro Zeile schicken (Stufe dazu sagen) –
+Kategorien vergebe ich automatisch, IDs auch.
 
 ## Weg zur APK (Android) und IPA (iOS) über GitHub
 Lokal ist kein Flutter installiert nötig – GitHub baut beides automatisch:

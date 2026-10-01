@@ -181,19 +181,20 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
                             style: Theme.of(context).textTheme.titleMedium,
                           ),
                           const SizedBox(height: 12),
-                          Container(
-                            padding: const EdgeInsets.all(12),
-                            decoration: BoxDecoration(
-                              color: Theme.of(context)
-                                  .colorScheme
-                                  .surfaceContainerHighest,
-                              borderRadius: BorderRadius.circular(12),
+                          if (term.beispiel.isNotEmpty)
+                            Container(
+                              padding: const EdgeInsets.all(12),
+                              decoration: BoxDecoration(
+                                color: Theme.of(context)
+                                    .colorScheme
+                                    .surfaceContainerHighest,
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                              child: Text(
+                                'Beispiel: ${term.beispiel}',
+                                textAlign: TextAlign.center,
+                              ),
                             ),
-                            child: Text(
-                              'Beispiel: ${term.beispiel}',
-                              textAlign: TextAlign.center,
-                            ),
-                          ),
                         ],
                       ],
                     ),

@@ -1,86 +1,4202 @@
 [
   {
+    "id": "absolute-feuchte",
+    "begriff": "Absolute Feuchte",
+    "definition": "In der Luft enthaltene Wasserdampfmenge, gemessen in Gramm Wasser pro Kubikmeter Luft.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "absorption",
+    "begriff": "Absorption",
+    "definition": "Prozess des In-Sich-Aufnehmens, z.B. von Strahlung.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "acrisol",
+    "begriff": "Acrisol",
+    "definition": "Rotbrauner Savannenboden (Rotlehm). Typischer Bodentyp der wechselfeuchten Tropen, fruchtbarer als Latosol.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "advektion",
+    "begriff": "Advektion",
+    "definition": "Horizontale Verlagerung von Luftmassen beim Druckausgleich durch Wind.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "agrarkolonisation",
+    "begriff": "Agrarkolonisation",
+    "definition": "Erschließung bisher ungenutzter Gebiete für die Landwirtschaft, oft mit staatlich finanzierten Siedlungen und Straßen.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "agroforstwirtschaft",
+    "begriff": "Agroforstwirtschaft",
+    "definition": "Nachhaltige Landwirtschaft im tropischen Regenwald, die Forst- und Landwirtschaft kombiniert. Bäume spenden Schatten und verhindern Bodenerosion.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "akkumulation",
+    "begriff": "Akkumulation",
+    "definition": "Ansammlung, z.B. von Verwitterungs- und Erosionsmaterial.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "albedo",
+    "begriff": "Albedo",
+    "definition": "Anteil der Sonnenstrahlung, der von der Erdoberfläche reflektiert wird (Wert 0–1). Je heller die Oberfläche, desto höher.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "alpine-stufe",
+    "begriff": "Alpine Stufe",
+    "definition": "Höhenstufe außertropischer Gebirge oberhalb der Baumgrenze, unterhalb der nivalen Stufe. Hier wachsen Rasen- und Mattenpflanzen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "altostratus",
+    "begriff": "Altostratus",
+    "definition": "Schichtwolke in mittlerer Höhe (ca. 3–6 km). Entsteht an Warmfronten und bedingt anhaltenden Landregen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "anoekumene",
+    "begriff": "Anökumene",
+    "definition": "Die vom Menschen unbesiedelten Teile der Erde, z.B. Polarregionen. Gegensatz: Ökumene.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "antarktisvertrag",
+    "begriff": "Antarktisvertrag",
+    "definition": "Internationales Abkommen (1959), das die Antarktis als friedlichen Kontinent für Forschung deklariert und Militär, Atomtests und Müll verbietet.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "anthropogener-treibhauseffekt",
+    "begriff": "Anthropogener Treibhauseffekt",
+    "definition": "Durch den Menschen verursachte Verstärkung des natürlichen Treibhauseffekts durch Emission von Treibhausgasen (CO2, Methan).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "anthroposphaere",
+    "begriff": "Anthroposphäre",
+    "definition": "Der vom Menschen gestaltete und genutzte Raum.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "anthropozaen",
+    "begriff": "Anthropozän",
+    "definition": "Von Paul Crutzen geprägter Begriff für das aktuelle Erdzeitalter, das die gewaltigen Einflüsse des Menschen auf natürliche Prozesse berücksichtigt.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "antipassat",
+    "begriff": "Antipassat",
+    "definition": "Meist polwärts gerichtete Luftströmung. Schwacher, aber mächtiger Strom über den Passatwinden.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "antizyklone",
+    "begriff": "Antizyklone",
+    "definition": "Hochdruckgebiet mit absinkender Luft. Dreht sich auf der Nordhalbkugel im Uhrzeigersinn, auf der Südhalbkugel gegen den Uhrzeigersinn. Gegensatz: Zyklone.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "aequatoriale-tiefdruckrinne",
+    "begriff": "Äquatoriale Tiefdruckrinne",
+    "definition": "Andere Bezeichnung für die Innertropische Konvergenzzone (ITC).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "asthenosphaere",
+    "begriff": "Asthenosphäre",
+    "definition": "Oberer, zähflüssiger Teil des Erdmantels bis ca. 200 km Tiefe. Hier finden sich Konvektionsströme; auf ihr bewegen sich die Platten der Lithosphäre.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "atmosphaere",
+    "begriff": "Atmosphäre",
+    "definition": "Gasförmige, mehrschichtige Lufthülle der Erde, die vor Strahlung aus dem Weltall schützt. In der untersten Schicht (Troposphäre) spielt sich das Wetter ab.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "atmosphaerische-zirkulation",
+    "begriff": "Atmosphärische Zirkulation",
+    "definition": "Globale Zirkulation und Austausch unterschiedlich temperierter Luftmassen. Siehe Drei-Zellen-Modell.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "azorenhoch",
+    "begriff": "Azorenhoch",
+    "definition": "Sehr beständiges Hochdruckgebiet im Bereich der Azoren. Im Sommer oft wetterbestimmend für Mitteleuropa.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "baumgrenze",
+    "begriff": "Baumgrenze",
+    "definition": "Grenzsaum, über den hinaus aufgrund des Gebirgsklimas keine Bäume mehr wachsen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "beleuchtungszone",
+    "begriff": "Beleuchtungszone",
+    "definition": "Aufteilung der Erde in drei Beleuchtungszonen je nach Intensität der Sonneneinstrahlung: polare Zone, Mittelbreiten und Tropen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "binnenwueste",
+    "begriff": "Binnenwüste",
+    "definition": "Wüste im Inneren eines Kontinents. Entsteht durch Niederschlagsarmut wegen großer Meeresferne oder abschirmender Gebirge.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "biokapazitaet",
+    "begriff": "Biokapazität",
+    "definition": "Fähigkeit von Ökosystemen, dauerhaft nutzbares Material (Nahrung) bereitzustellen und Abfall aufzunehmen.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "biosphaere",
+    "begriff": "Biosphäre",
+    "definition": "Teil der Landschaftshülle der Erde, der von lebenden Organismen bewohnt wird.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodenart",
+    "begriff": "Bodenart",
+    "definition": "Einteilung des Bodens nach Korngröße der mineralischen Bestandteile: Sand-, Lehm-, Schluff- und Tonboden.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodendegradation",
+    "begriff": "Bodendegradation",
+    "definition": "Verschlechterung oder Verlust des Bodens durch Übernutzung (Überweidung, Rodung) oder natürliche Einflüsse. Führt zum Verlust der Bodenfruchtbarkeit.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodenhorizont",
+    "begriff": "Bodenhorizont",
+    "definition": "Mehr oder weniger parallel zur Erdoberfläche verlaufende Bodenschicht mit verschiedenen Merkmalen und unterschiedlicher Mächtigkeit.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodenprofil",
+    "begriff": "Bodenprofil",
+    "definition": "Querschnitt durch den schichtartigen Aufbau des Bodens. Meist drei Horizonte: A (dunkler Oberboden), B (Unterboden), C (Ausgangsgestein).",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodentyp",
+    "begriff": "Bodentyp",
+    "definition": "Grundlegende Einteilung der Böden nach den bodenbildenden Faktoren, sichtbar an der Abfolge der Bodenhorizonte.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "bodenversalzung",
+    "begriff": "Bodenversalzung",
+    "definition": "Durch Verdunstung von Bewässerungswasser bedingte Anreicherung gelöster Salze im Oberboden. Bildet eine Salzkruste und führt zur Unfruchtbarkeit.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "boreale-zone",
+    "begriff": "Boreale Zone",
+    "definition": "Zone des kaltgemäßigten Klimas auf der Nordhalbkugel mit Waldtundra und borealem Nadelwald. Auch der Subpolaren Zone zugeordnet.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "borealer-nadelwald",
+    "begriff": "Borealer Nadelwald",
+    "definition": "Vegetationszone der Nordhalbkugel mit artenarmem Nadelwald (Fichten, Kiefern, Tannen, Lärchen) wegen langer, kalter Winter.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "braunerde",
+    "begriff": "Braunerde",
+    "definition": "In den Mittelbreiten verbreiteter Bodentyp. Reich an Humus, schwach sauer bis neutral und fruchtbar.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "brettwurzel",
+    "begriff": "Brettwurzel",
+    "definition": "Bis zu zehn Meter hohe, sternförmig angeordnete Wurzel, die hohen Bäumen im tropischen Regenwald Standfestigkeit verleiht.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "caldera",
+    "begriff": "Caldera",
+    "definition": "Großräumiger vulkanischer Kessel, entstanden durch explosiven Vulkanismus oder Einsturz des Gipfels nach Entleerung der Magmakammer.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "cash-crops",
+    "begriff": "Cash Crops",
+    "definition": "Landwirtschaftliche Produkte, die für den Export produziert werden, z.B. Kaffee, Bananen oder Baumwolle.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "chemische-verwitterung",
+    "begriff": "Chemische Verwitterung",
+    "definition": "Zersetzung von Gestein durch chemische Prozesse wie Lösung oder Oxidation.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "cirrus",
+    "begriff": "Cirrus",
+    "definition": "Schleier- oder Eiswolke mit feinfaseriger Struktur in der hohen Troposphäre. Kann Vorbote eines Wetterumschwungs sein.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "co2-quelle",
+    "begriff": "CO2-Quelle",
+    "definition": "Herkunft von Kohlenstoff bzw. CO2. Z.B. wird durch Verbrennung von Torf, Kohle oder Erdöl abgelagerter Kohlenstoff freigesetzt.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "co2-senke",
+    "begriff": "CO2-Senke",
+    "definition": "Reservoir, das Kohlenstoff speichert. Wälder, Moore, Mangroven, Steppen oder Ozeane nehmen CO2 auf. Siehe Kohlenstoffkreislauf.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "corioliseffekt",
+    "begriff": "Corioliseffekt",
+    "definition": "Aus der Erdrotation resultierende Scheinkraft. Lenkt Winde und Meeresströmungen auf der Nordhalbkugel nach rechts, auf der Südhalbkugel nach links ab.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "cryosol",
+    "begriff": "Cryosol",
+    "definition": "Bodentyp in arktischen, antarktischen und Hochgebirgsregionen, geprägt von Gefrieren und Auftauen.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "cumulus",
+    "begriff": "Cumulus",
+    "definition": "Haufen- oder Quellwolke mit hoher Senkrechterstreckung (in den Tropen bis 20 km). Entsteht durch Aufwärtsströmungen. Kann zu Gewitterwolken werden.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "desertifikation",
+    "begriff": "Desertifikation",
+    "definition": "Landschaftswandel in Trockengebieten durch menschliches Einwirken (falsche Nutzung). Begünstigt die Ausbreitung der Wüste.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "desilifizierung",
+    "begriff": "Desilifizierung",
+    "definition": "Prozess, bei dem im Boden Silikate gelöst, ausgewaschen und in den Unterboden verlagert werden. Typisch für den Latosol.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "detersion",
+    "begriff": "Detersion",
+    "definition": "Schleifen und Schrammen eines Gletschers am Gesteinsuntergrund durch eingefrorene Grobsedimente. Siehe Gletscherschliff.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "detraktion",
+    "begriff": "Detraktion",
+    "definition": "Auch Plucking. Herausbrechen von Gesteinsstücken, die an der Gletscherunterseite angefroren sind.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "divergierende-plattengrenze",
+    "begriff": "Divergierende Plattengrenze",
+    "definition": "Auch konstruktive Plattengrenze. Zwei Lithosphärenplatten driften auseinander. Neue Erdkruste bildet sich (Seafloor Spreading).",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "dornstrauchsavanne",
+    "begriff": "Dornstrauchsavanne",
+    "definition": "Auch Dornsavanne. Eine der drei Savannenformen mit nur 2–4 humiden Monaten. Niedriges Gras und dorniges Gestrüpp.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "downwelling",
+    "begriff": "Downwelling",
+    "definition": "Teil der thermohalinen Zirkulation, bei dem warmes Oberflächenwasser abkühlt, schwerer wird und in tiefere Schichten absinkt.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "drei-zellen-modell",
+    "begriff": "Drei-Zellen-Modell",
+    "definition": "Atmosphärische Zirkulation in drei Zellen je Hemisphäre. Berücksichtigt Erdrotation und Corioliseffekt: Hadleyzelle, Ferrelzelle, Polarzelle.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ecofarming",
+    "begriff": "Ecofarming",
+    "definition": "Landwirtschaftliche Anbaumethode, bei der der Boden nachhaltig und ökosystemschonend genutzt wird. Eine Form im Regenwald ist die Agroforstwirtschaft.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "effektive-klassifikationen",
+    "begriff": "Effektive Klassifikationen",
+    "definition": "Gliederung atmosphärischer Verhältnisse durch Kombination einzelner Klimaerscheinungen (z.B. Temperatur, Niederschlag).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "effusiver-vulkanismus",
+    "begriff": "Effusiver Vulkanismus",
+    "definition": "Kontinuierlicher Austritt von dünnflüssigem Magma. Geringe Viskosität und geringe Explosivität. Gegenteil: explosiver Vulkanismus.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ein-zellen-modell",
+    "begriff": "Ein-Zellen-Modell",
+    "definition": "Vereinfachung der atmosphärischen Zirkulation. Ohne Erdrotation gäbe es nur eine große Zirkulationszelle vom Äquator zu den Polen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ekliptik",
+    "begriff": "Ekliptik",
+    "definition": "Gedachte Sonnenbahn am Erdenhimmel. Durch die Neigung der Erdachse steht die Ekliptikebene im Winkel von 23,5° zur Äquatorebene (Schiefe der Ekliptik).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "el-nino",
+    "begriff": "El Niño",
+    "definition": "Natürliches Klimaphänomen im tropischen Pazifik. Alle 3–7 Jahre verändern sich Meeresströmungen; Dürren in Südostasien, Planktonsterben vor Südamerika.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "emissionshandel",
+    "begriff": "Emissionshandel",
+    "definition": "Handel mit Emissionszertifikaten zur Reduktion von Treibhausgasen. Überschüssige Emissionsrechte können verkauft werden.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "endmoraene",
+    "begriff": "Endmoräne",
+    "definition": "Vom Gletscher abgelagerte Schuttmassen, die er vor sich herschiebt. Bleiben nach dem Abschmelzen als wallartige Hügel bestehen.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "endogen",
+    "begriff": "Endogen",
+    "definition": "Von innen auf die Erdoberfläche wirkende Kräfte, die z.B. zu Erdbeben oder Orogenese führen. Gegenteil: exogen.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "epiphyt",
+    "begriff": "Epiphyt",
+    "definition": "Pflanze, die auf anderen Pflanzen lebt und keinen eigenen Stamm aufbaut, z.B. Farne, Moose oder Orchideen.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "epizentrum",
+    "begriff": "Epizentrum",
+    "definition": "Stelle an der Erdoberfläche senkrecht über dem Hypozentrum. Siehe Erdbeben.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "erdbeben",
+    "begriff": "Erdbeben",
+    "definition": "Erschütterung der Erdoberfläche durch ruckartige Bewegungen der Erdplatten, Vulkanismus oder Einstürze. Meist entlang von Plattengrenzen.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
     "id": "erosion",
-    "begriff": "Erosion (PLATZHALTER)",
-    "definition": "Abtragung von Gestein und Boden durch Wasser, Wind oder Eis.",
-    "beispiel": "Ein Fluss trägt Erde an der Böschung ab.",
-    "kategorie": "Geomorphologie"
+    "begriff": "Erosion",
+    "definition": "Abtragung von Boden oder Gestein durch fließendes Wasser, Eis oder Wind.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
   },
   {
-    "id": "delta",
-    "begriff": "Delta (PLATZHALTER)",
-    "definition": "Mündungsform eines Flusses mit fächerförmiger Aufschüttung von Sedimenten.",
-    "beispiel": "Das Nildelta in Ägypten.",
-    "kategorie": "Gewässer"
+    "id": "evaporation",
+    "begriff": "Evaporation",
+    "definition": "Verdunstung von Wasser an der Bodenoberfläche oder auf Wasserflächen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
   },
   {
-    "id": "klima",
-    "begriff": "Klima (PLATZHALTER)",
-    "definition": "Langjähriger Mittelwert von Wettererscheinungen einer Region.",
-    "beispiel": "Maritimes vs. kontinentales Klima.",
-    "kategorie": "Klima"
+    "id": "exogen",
+    "begriff": "Exogen",
+    "definition": "Von außen auf die Erdoberfläche wirkende Kräfte wie Wind, Wasser oder Eis. Führen zu Erosion und Verwitterung. Gegenteil: endogen.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
   },
   {
-    "id": "platte",
-    "begriff": "Plattentektonik (PLATZHALTER)",
-    "definition": "Bewegung der Lithosphärenplatten auf dem Erdmantel.",
-    "beispiel": "Erdbeben am Plattenrand.",
-    "kategorie": "Geologie"
+    "id": "exosphaere",
+    "begriff": "Exosphäre",
+    "definition": "Oberste Schicht der Atmosphäre ab 300–400 km Höhe. Allmählicher Übergang zum luftleeren Weltraum.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
   },
   {
-    "id": "urbanisierung",
-    "begriff": "Urbanisierung (PLATZHALTER)",
-    "definition": "Wachstum der Städte und des Anteils der Stadtbevölkerung.",
-    "beispiel": "Zuzug vom Land in die Stadt.",
-    "kategorie": "Humangeographie"
+    "id": "explosiver-vulkanismus",
+    "begriff": "Explosiver Vulkanismus",
+    "definition": "Kurzzeitige, heftige Ausbrüche mit kilometerhohen Eruptionswolken. Hochviskose Lava, Aschewolken, pyroklastische Ströme. Gegenteil: effusiver Vulkanismus.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
   },
   {
-    "id": "wetter",
-    "begriff": "Wetter (PLATZHALTER)",
-    "definition": "Aktueller Zustand der Atmosphäre an einem Ort.",
-    "beispiel": "Regen, Sonne, Wind heute.",
-    "kategorie": "Klima"
+    "id": "extensive-tierhaltung",
+    "begriff": "Extensive Tierhaltung",
+    "definition": "Form der Viehhaltung, bei der Tiere auf großen Flächen gehalten werden. Effiziente Nutzung der Umweltressourcen bei geringem Eingriff.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "felswueste-hamada",
+    "begriff": "Felswüste (Hamada)",
+    "definition": "Wüstenart mit großen und kleinen Steinen, aus der Berge herausragen. Große Temperaturunterschiede zerbrechen riesige Felsbrocken.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ferralitisierung",
+    "begriff": "Ferralitisierung",
+    "definition": "Abnahme des Siliziumgehaltes der Böden (Desilifizierung) verbunden mit Anreicherung von Eisen- und Aluminiumoxiden. Es bildet sich Latosol.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ferrelzelle",
+    "begriff": "Ferrelzelle",
+    "definition": "Im Drei-Zellen-Modell eine der drei Zellen der atmosphärischen Zirkulation, identisch mit der planetaren Frontalzone.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "feuchtadiabatisch",
+    "begriff": "Feuchtadiabatisch",
+    "definition": "Zustandsänderung einer aufsteigenden Luftmasse unter Kondensation. Dabei wird Wärme frei; die Luft kühlt um 0,4–0,7 °C je 100 m ab.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "feuchte-mittelbreiten",
+    "begriff": "Feuchte Mittelbreiten",
+    "definition": "Zone der Mittelbreiten mit ausgeglichener Jahresniederschlagsverteilung, die vielfältiges Pflanzenwachstum ermöglicht.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "feuchtsavanne",
+    "begriff": "Feuchtsavanne",
+    "definition": "Eine der drei Savannenformen. Bei 6–10 humiden Monaten parkartige Baumlandschaften mit meterhohem Elefantengras.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "firn",
+    "begriff": "Firn",
+    "definition": "Kompakter, körniger Schnee im Hochgebirge, mind. ein Jahr alt. Übergang von Schnee zu Eis; wandelt sich über Jahre zu Gletschereis.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "fixismus",
+    "begriff": "Fixismus",
+    "definition": "Ehemalige Lehrmeinung, nach der die Erdkruste fest mit dem Untergrund verbunden ist und keine horizontalen Bewegungen stattfinden. Bestand bis in die 1960er.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "fluviale-erosion",
+    "begriff": "Fluviale Erosion",
+    "definition": "Erosion durch Wasser.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "foehn",
+    "begriff": "Föhn",
+    "definition": "Warmer Fallwind, v.a. in Alpenregionen. Beim Aufsteigen kühlt die Luft ab (Wolken, Niederschlag), beim Absteigen erwärmt sie sich und wird warm und trocken.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "fossiles-grundwasser",
+    "begriff": "Fossiles Grundwasser",
+    "definition": "Grundwasser, das in einer regenreichen Klimaperiode entstand, sich in großen Tiefen befindet und sich nicht erneuert.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "fremdlingsfluss",
+    "begriff": "Fremdlingsfluss",
+    "definition": "Fluss, der in einem regenreichen Gebiet entspringt und anschließend durch ein Trockengebiet fließt.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "frostmusterboden",
+    "begriff": "Frostmusterboden",
+    "definition": "Boden, der durch wiederholte Gefrier- und Auftauzyklen charakteristische Muster wie Risse, Erhebungen und Mulden bildet.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "frostsprengung",
+    "begriff": "Frostsprengung",
+    "definition": "Form der physikalischen Verwitterung in kalten Klimaten. Gefrierendes Wasser in Gesteinsspalten nimmt um 9 % zu und sprengt das Gestein (bis ca. 2 m Tiefe).",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "fumarole",
+    "begriff": "Fumarole",
+    "definition": "Stelle in vulkanisch aktiven Zonen, an der Wasserdampf und vulkanische Gase austreten.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gefaehrdungspotenzial",
+    "begriff": "Gefährdungspotenzial",
+    "definition": "Potenzial einer Gefahr, Schaden an Menschen, Umwelt oder Sachwerten zu verursachen. Begriff aus der Risikoforschung.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gelifluktion",
+    "begriff": "Gelifluktion",
+    "definition": "Form der Solifluktion im periglazialen Bereich. Voraussetzung sind saisonaler Bodenfrost oder Permafrost.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "genetische-klassifikationen",
+    "begriff": "Genetische Klassifikationen",
+    "definition": "Gliederung atmosphärischer Verhältnisse nach der Ursache der Klimaerscheinungen, d.h. nach der atmosphärischen Zirkulation.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "geo-engineering",
+    "begriff": "Geo-Engineering",
+    "definition": "Technischer Eingriff in die Prozesse des Erdsystems mit dem Ziel, den Klimawandel zu verhindern oder zu verlangsamen.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "geofaktor",
+    "begriff": "Geofaktor",
+    "definition": "Merkmal, das geographische Regionen und Landschaften prägt. Dazu zählen Gestein, Klima, Wasser, Relief, Böden, Flora, Fauna und Mensch.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "geosphaere",
+    "begriff": "Geosphäre",
+    "definition": "Dreidimensionaler Landschaftsraum der Erdoberfläche mit seinen Funktionsbeziehungen (Atmosphäre, Hydrosphäre, Lithosphäre, Biosphäre u.a.).",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
   },
   {
     "id": "gletscher",
-    "begriff": "Gletscher (PLATZHALTER)",
-    "definition": "Sich bewegende Eismasse aus verdichtetem Schnee.",
-    "beispiel": "Aletschgletscher in der Schweiz.",
-    "kategorie": "Geomorphologie"
+    "begriff": "Gletscher",
+    "definition": "Eismassen im Hochgebirge und in Polargebieten, die sich als Ströme talwärts bewegen. Entstehen oberhalb der Schneegrenze.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
   },
   {
-    "id": "bewaesserung",
-    "begriff": "Bewässerung (PLATZHALTER)",
-    "definition": "Künstliche Zufuhr von Wasser für die Landwirtschaft.",
-    "beispiel": "Tröpfchenbewässerung im Trockenfeldanbau.",
-    "kategorie": "Agrargeographie"
+    "id": "gletschererosion",
+    "begriff": "Gletschererosion",
+    "definition": "Prozess, bei dem ein Gletscher die Erdoberfläche erodiert und verformt. Es entstehen z.B. Trogtäler, Hängetäler oder Moränen.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gletscherschliff",
+    "begriff": "Gletscherschliff",
+    "definition": "Resultat der Detersion im Gletscherbett. Raue Felsoberflächen werden geglättet, in Bewegungsrichtung entstehen Schrammen und Furchen.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gley",
+    "begriff": "Gley",
+    "definition": "Bodentyp v.a. in Senken und Niederungen. Unter dem grundwasserunbeeinflussten A-Horizont liegt ein rostfleckiger Boden, darunter permanente Grundwasserzone.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gleysol",
+    "begriff": "Gleysol",
+    "definition": "Bodentyp, geprägt von übermäßiger Wassersättigung und mangelnder Entwässerung. Reduziertes Eisen verleiht blaugraue/grüngraue Farbtöne.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "globalstrahlung",
+    "begriff": "Globalstrahlung",
+    "definition": "Gesamtmenge der direkten Sonnenstrahlung und der diffusen Himmelsstrahlung.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "globaler-sueden",
+    "begriff": "Globaler Süden",
+    "definition": "Begriff für die Gruppe ökonomisch und gesellschaftlich benachteiligter Länder, hauptsächlich auf der Südhalbkugel. Wertfreier Gegenbegriff zu „Entwicklungsländer“.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "gradientkraft",
+    "begriff": "Gradientkraft",
+    "definition": "Kraft, die Luftmassen von hohem zu tiefem Druck in Bewegung setzt.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hadleyzelle",
+    "begriff": "Hadleyzelle",
+    "definition": "Im Drei-Zellen-Modell eine der drei Zellen der atmosphärischen Zirkulation. Entspricht der Passatzirkulation.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "halbwueste",
+    "begriff": "Halbwüste",
+    "definition": "Übergangsraum zwischen Savanne bzw. Steppe und Wüste, meist mit jährlicher Niederschlagssumme von 100–250 mm.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "halophyt",
+    "begriff": "Halophyt",
+    "definition": "Pflanze mit verstärkter Salzverträglichkeit, deshalb in Regionen mit hohem Salzgehalt zu finden.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hartlaubgehoelze",
+    "begriff": "Hartlaubgehölze",
+    "definition": "Immergrüne Bäume und Sträucher, typisch für Gebiete mit trockener Jahreszeit (Mittelmeerraum). Harte, ledrige Blätter verhindern Verdunstung.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hitzestress",
+    "begriff": "Hitzestress",
+    "definition": "Bei Pflanzen durch hohe Temperaturen hervorgerufene Folgen wie verminderte Samenbildung oder Blattabfall.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hotspot",
+    "begriff": "Hotspot",
+    "definition": "Stationärer, im oberen Erdmantel lokalisierter Bereich heißer Magmaherd. Schmelze durchbricht die Lithosphärenplatte und bildet Vulkaninseln (z.B. Hawaii).",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "humifizierung",
+    "begriff": "Humifizierung",
+    "definition": "Prozess der Umwandlung von abgestorbenem organischem Material zu Humus, begünstigt durch Bodenlebewesen.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "huminstoffe",
+    "begriff": "Huminstoffe",
+    "definition": "Dunkel gefärbte, stabile organische Substanzen des Bodens. Bilden mit Tonmineralen die Ton-Humus-Komplexe.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "humus",
+    "begriff": "Humus",
+    "definition": "Dunkler, kohlenstoffreicher Bestandteil des Bodens aus abgestorbenen Pflanzen-/Tierresten und Mikroorganismen. Entscheidend für die Bodenfruchtbarkeit.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hurrikan",
+    "begriff": "Hurrikan",
+    "definition": "Siehe tropischer Wirbelsturm.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hydrosphaere",
+    "begriff": "Hydrosphäre",
+    "definition": "Wasserhülle der Erde (ca. 71 % der Erdoberfläche). Umfasst Ozeane, Festlandgewässer sowie Eis und Schnee. Siehe Kryosphäre.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "hypozentrum",
+    "begriff": "Hypozentrum",
+    "definition": "Auch Erdbebenherd. Entstehungsort eines Erdbebens, in der Lithosphäre gelegen. Siehe Epizentrum.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "immerfeuchte-subtropen",
+    "begriff": "Immerfeuchte Subtropen",
+    "definition": "Zone der Subtropen an den Ostseiten der Kontinente (Ostseitenklima) mit milden Wintern, heißen Sommern und ganzjähriger Humidität.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "immerfeuchte-tropen",
+    "begriff": "Immerfeuchte Tropen",
+    "definition": "Kernraum der Tropen mit ganzjährig hohen Niederschlägen, hohen Temperaturen und dichter Waldbedeckung (tropischer Regenwald).",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "innertropische-konvergenzzone-itc",
+    "begriff": "Innertropische Konvergenzzone (ITC)",
+    "definition": "Bereich der inneren Tropen mit niedrigem Bodenluftdruck, wo die Passate zusammentreffen. Folgt dem Zenitstand der Sonne.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "inselbogen",
+    "begriff": "Inselbogen",
+    "definition": "Bogenförmig angeordnete vulkanische Inselketten als Ergebnis der Kollision zweier ozeanischer Platten.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "insolationsverwitterung",
+    "begriff": "Insolationsverwitterung",
+    "definition": "Auch Hitzesprengung. Verwitterung durch Wechsel von Erwärmung (tags) und Abkühlung (nachts). Volumenänderungen lockern die Gesteinsstruktur.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "islandtief",
+    "begriff": "Islandtief",
+    "definition": "Sehr beständiges Tiefdruckgebiet über dem nördlichen Atlantik.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "isobare",
+    "begriff": "Isobare",
+    "definition": "Linie gleichen Luftdrucks.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "jahreszeitenklima",
+    "begriff": "Jahreszeitenklima",
+    "definition": "Klima, das stärker durch jährliche Temperaturschwankungen geprägt ist als durch tägliche. Typisch außerhalb der Tropen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "jetstream",
+    "begriff": "Jetstream",
+    "definition": "Zone orkanartiger Winde in der oberen Troposphäre im Bereich der planetaren Frontalzone, hervorgerufen durch starke Luftdruckgefälle in der Höhe.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kaeltegrenze",
+    "begriff": "Kältegrenze",
+    "definition": "Grenzsaum, ab dem die Wärme so gering ist, dass Pflanzenwachstum nicht mehr möglich ist. Liegt zwischen Subpolarer und Polarer Zone bzw. oberhalb der Baumgrenze.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kaeltewueste",
+    "begriff": "Kältewüste",
+    "definition": "Nördlichste bzw. südlichste Vegetationszone in Polnähe. Wegen niedriger Jahrestemperaturen kein Pflanzenwachstum möglich.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kaltfront",
+    "begriff": "Kaltfront",
+    "definition": "Grenzfläche zwischen warmer und kalter Luft auf der Rückseite des Warmluftsektors einer Zyklone. Plötzlicher Temperaturfall, Druckzunahme am Boden.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kaskadischer-effekt",
+    "begriff": "Kaskadischer Effekt",
+    "definition": "Situation, in der ein Naturereignis Auslöser für weitere Prozesse wird.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kationenaustauschkapazitaet",
+    "begriff": "Kationenaustauschkapazität",
+    "definition": "Fähigkeit eines Bodens, Nährstoffe zu binden, vor Auswaschung zu schützen und bei Bedarf wieder abzugeben.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kerbtal",
+    "begriff": "Kerbtal",
+    "definition": "Tal in V-Form mit steilen Hängen, die beiderseits des Flusses enden, sodass Talboden und Flussbettsohle identisch sind.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kieswueste-serir",
+    "begriff": "Kieswüste (Serir)",
+    "definition": "Wüstenart mit weitgehend geschlossener Lage von Kies. Entsteht, wenn Felswüsten durch Wind und Erosion zerfallen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kippelement",
+    "begriff": "Kippelement",
+    "definition": "Überregionaler Bestandteil des Klimasystems (z.B. Eisschild, Amazonas). Wird ein Schwellenwert (Kipppunkt) überschritten, kippt es abrupt und irreversibel.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kipppunkt",
+    "begriff": "Kipppunkt",
+    "definition": "Siehe Kippelement.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klamm",
+    "begriff": "Klamm",
+    "definition": "Tal mit senkrechten, oft hohen Talwänden. Entsteht, wenn ein Fluss stark in die Tiefe erodiert.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klima",
+    "begriff": "Klima",
+    "definition": "Die langjährigen (i.d.R. 30 Jahre) Durchschnittswerte der Merkmale des Wetters an einem bestimmten Ort.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klimaelement",
+    "begriff": "Klimaelement",
+    "definition": "Messbare meteorologische Erscheinung in der erdnahen Atmosphäre: Temperatur, Niederschlag, Verdunstung, Bewölkung, Luftfeuchte, Luftdruck, Wind, Strahlung.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klimafaktor",
+    "begriff": "Klimafaktor",
+    "definition": "Eigenschaft eines Raumes, die das Klima beeinflusst (z.B. Breitenlage, Höhenlage, Exposition, Siedlungsdichte, Lage zum Meer).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klimaschutz",
+    "begriff": "Klimaschutz",
+    "definition": "Maßnahmen, die dem rezenten Klimawandel entgegenwirken sollen (z.B. Reduktion von CO2-Emissionen).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klimatische-trockengrenze",
+    "begriff": "Klimatische Trockengrenze",
+    "definition": "Klimatische Trennlinie, die Gebiete mit Niederschlagsüberschuss von Gebieten mit Niederschlagsdefizit abgrenzt.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "klimawandel",
+    "begriff": "Klimawandel",
+    "definition": "Veränderung des globalen Klimas. Natürlich oder anthropogen verursacht. Die Durchschnittstemperatur stieg in ca. 150 Jahren deutlich an.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kohlenstoffkreislauf",
+    "begriff": "Kohlenstoffkreislauf",
+    "definition": "Zyklus des Kohlenstoffs in der Geosphäre. In Atmosphäre, Hydrosphäre, Biosphäre und Lithosphäre gespeichert und durch Prozesse freigesetzt/gebunden.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kolline-stufe",
+    "begriff": "Kolline Stufe",
+    "definition": "Unterste Höhenstufe außertropischer Gebirge bis etwa 800 m mit Laub- und Mischwald.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "konservative-plattengrenze",
+    "begriff": "Konservative Plattengrenze",
+    "definition": "Grenze, an der zwei Lithosphärenplatten horizontal aneinander vorbeigleiten. Verhaken an Transformstörungen, Spannungen entladen sich als Erdbeben.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kontinentalitaet",
+    "begriff": "Kontinentalität",
+    "definition": "Vorherrschendes Klima im Inneren großer Landmassen mit großen Temperaturunterschieden (Sommer/Winter, Tag/Nacht) und geringen Jahresniederschlägen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kontraktionstheorie",
+    "begriff": "Kontraktionstheorie",
+    "definition": "Ehemalige Theorie, nach der Gebirge durch das Schrumpfen der Erde infolge ihrer Abkühlung entstehen.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "konvektionsstrom",
+    "begriff": "Konvektionsstrom",
+    "definition": "Auf- und absteigender Strom von Magma im oberen Erdmantel, der zur Bewegung der Lithosphärenplatten führt.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "konvergierende-plattengrenze",
+    "begriff": "Konvergierende Plattengrenze",
+    "definition": "Auch destruktive Plattengrenze. Zwei Lithosphärenplatten driften aufeinander zu. Es kann zu Subduktion, Orogenese, Erdbeben und Vulkanismus kommen.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kryosphaere",
+    "begriff": "Kryosphäre",
+    "definition": "Teil der Hydrosphäre. Bereich der Erdoberfläche, der aus Eis und Schnee besteht.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kryoturbation",
+    "begriff": "Kryoturbation",
+    "definition": "Durchmischung von Bodenmaterial im periglazialen Bereich. Wechsel von Gefrieren und Auftauen erzeugt Druck und Materialbewegungen. Siehe Permafrost.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kurzgeschlossener-naehrstoffkreislauf",
+    "begriff": "Kurzgeschlossener Nährstoffkreislauf",
+    "definition": "Verkürzter Kreislauf im tropischen Regenwald. Ca. 80 % der Nährstoffe gelangen nicht in den Boden, sondern werden über Wurzeln und Mykorrhiza direkt aufgenommen.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "kuestenwueste",
+    "begriff": "Küstenwüste",
+    "definition": "Wüste an Westküsten von Kontinenten mit kalter Meeresströmung (z.B. Namib). Warmer Wind über kühle Luftmassen unterbindet die Regenwolkenbildung.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "lahar",
+    "begriff": "Lahar",
+    "definition": "Schlamm- und Schuttstrom, hervorgerufen durch Vulkanismus.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "land-see-wind",
+    "begriff": "Land-See-Wind",
+    "definition": "Nächtliche Windströmung vom Land zum Meer (stärkere Abkühlung des Landes). Tagsüber kehrt sich das System um.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "landwechselwirtschaft",
+    "begriff": "Landwechselwirtschaft",
+    "definition": "Landwirtschaftliche Nutzung mit stetigem Wechsel der Landnutzung (z.B. Acker–Weide oder Brachephasen). Ermöglicht Anreicherung des Bodens mit Mineralstoffen.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "lateritisierung",
+    "begriff": "Lateritisierung",
+    "definition": "Geologischer Prozess, bei dem Böden zu Lateritböden werden. V.a. in tropisch/subtropischen Regionen mit hohem Niederschlag. Böden oft nährstoffarm.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "latosol",
+    "begriff": "Latosol",
+    "definition": "Auch Roterde/Ferralsol. Typischer Bodentyp des tropischen Regenwalds. Dünner Oberboden, intensiv verwitterter Unterboden, weitgehend unfruchtbar.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "lava",
+    "begriff": "Lava",
+    "definition": "Geschmolzenes Gestein, das bei Vulkanausbrüchen an die Erdoberfläche tritt. Temperaturen zwischen 700 und 1250 °C.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "lithosphaere",
+    "begriff": "Lithosphäre",
+    "definition": "Gesteinshülle der Erde. Umfasst Erdkruste und oberen Erdmantel, ist in Platten gegliedert.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "maar",
+    "begriff": "Maar",
+    "definition": "Schüssel- oder trichterförmige Mulde vulkanischen Ursprungs, in eine Landschaft eingesenkt. Z.B. in der Eifel und Schwäbischen Alb.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "macchie",
+    "begriff": "Macchie",
+    "definition": "Immergrüne Hartlaubgehölze des Mittelmeerraums. 1–3 m hohe Sträucher und Baumsträucher (z.B. Lorbeer, Wacholder, Steineiche).",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "magma",
+    "begriff": "Magma",
+    "definition": "Geschmolzenes Gestein im Erdinneren.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mangroven",
+    "begriff": "Mangroven",
+    "definition": "Küstenwälder im Gezeitenbereich tropischer Meere. Wichtige CO2-Senken und Fischlaichgebiete; schützen Küsten vor Erosion und Sturmfluten.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "manteldiapir",
+    "begriff": "Manteldiapir",
+    "definition": "Siehe Mantle Plume.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mantle-plume",
+    "begriff": "Mantle Plume",
+    "definition": "Auch Manteldiapir. Aufstiegsschlot für Tiefenmagma, das u.a. von der Kern-Mantel-Grenze zum Hotspot aufsteigt.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "maritimitaet",
+    "begriff": "Maritimität",
+    "definition": "Vorherrschendes Klima in der Nähe von Ozeanen mit kühlen Sommern, milden Wintern und relativ hohen Jahresniederschlägen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mensch-umwelt-beziehungen",
+    "begriff": "Mensch-Umwelt-Beziehungen",
+    "definition": "Wechselwirkungen zwischen Menschen und der sie umgebenden Umwelt.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mesosphaere",
+    "begriff": "Mesosphäre",
+    "definition": "Schicht der Atmosphäre bis ca. 100 km Höhe, gekennzeichnet durch Temperaturabnahme. Mit ca. -80 °C erreicht die Atmosphäre hier ihren tiefsten Wert.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mineralisierung",
+    "begriff": "Mineralisierung",
+    "definition": "Umwandlung organischer Substanzen in anorganische Verbindungen. Bodenmikroorganismen zerlegen Moleküle zu Nährstoffen für Pflanzen.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mittelbreiten",
+    "begriff": "Mittelbreiten",
+    "definition": "Beleuchtungszone zwischen Polarzone und Tropen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mittelozeanischer-ruecken",
+    "begriff": "Mittelozeanischer Rücken",
+    "definition": "Bereich am Ozeangrund, an dem sich zwei Kontinentalplatten voneinander wegbewegen. Aufsteigendes Magma bildet lange Unterwassergebirge. Siehe Seafloor Spreading.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mobilismus",
+    "begriff": "Mobilismus",
+    "definition": "Lehrmeinung, nach der sich Teile der Lithosphäre horizontal bewegen.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "monokultur",
+    "begriff": "Monokultur",
+    "definition": "Bodenbewirtschaftung auf großen Flächen mit gleichen Feldfrüchten über lange Zeit. Boden verliert Nährstoffe, Pflanzen sind schädlingsanfällig.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "monsun",
+    "begriff": "Monsun",
+    "definition": "Beständige Winde, die im Jahresverlauf ihre Richtung um ca. 180° ändern. Typisch für den indischen Subkontinent und Ostasien. Siehe Passatzirkulation.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "montane-stufe",
+    "begriff": "Montane Stufe",
+    "definition": "Höhenstufe außertropischer Gebirge oberhalb der submontanen und unterhalb der alpinen Stufe. Nur noch Nadelwälder; nach oben durch die Waldgrenze begrenzt.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "muldental",
+    "begriff": "Muldental",
+    "definition": "Weitverbreitete Form eines sanft geschwungenen Tals mit flachen Talhängen, durch starke Abtragung der Festlandsoberfläche entstanden.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mure",
+    "begriff": "Mure",
+    "definition": "Schnell fließender Erdstrom aus Schlamm und Steinen, ausgelöst durch heftige Regenfälle oder Schneeschmelze.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "mykorrhiza",
+    "begriff": "Mykorrhiza",
+    "definition": "Im tropischen Regenwald verbreitete Pilzart, die Saugwurzeln umspinnt und Pflanzen mit Nährstoffen versorgt. Im Austausch erhalten die Pilze Kohlenhydrate.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "naturereignis",
+    "begriff": "Naturereignis",
+    "definition": "In der Natur ablaufender Vorgang, der vom Menschen nicht beeinflusst werden kann (z.B. Blitze, Erdbeben, Vulkanausbrüche, Dürren).",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "naturgefahr",
+    "begriff": "Naturgefahr",
+    "definition": "Naturereignis, das eine mögliche Gefährdung für Bevölkerung, Umwelt und Sachwerte darstellt.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "naturkatastrophe",
+    "begriff": "Naturkatastrophe",
+    "definition": "Naturereignis mit hohen Personen- und Sachschäden.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "natuerlicher-treibhauseffekt",
+    "begriff": "Natürlicher Treibhauseffekt",
+    "definition": "Natürliche Erwärmung der Atmosphäre. Wärmestrahlung wird von CO2, Wasserdampf und Ozon teils zurückgehalten, hebt die globale Mitteltemperatur auf +15 °C.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "nebelwald",
+    "begriff": "Nebelwald",
+    "definition": "Tropischer Gebirgsregenwald an niederschlagsreichen Hängen in ca. 1000–3000 m Höhe. Fast ganzjährig von Nebel bedeckt; viele Epiphyten.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "niederschlagsvariabilitaet",
+    "begriff": "Niederschlagsvariabilität",
+    "definition": "Starke räumliche und zeitliche Schwankung der Niederschlagsmenge.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "nimbostratus",
+    "begriff": "Nimbostratus",
+    "definition": "Schichtwolke mit hoher Vertikalerstreckung. Von unten grau und strukturlos. Wird von anhaltenden Niederschlägen begleitet.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "nivale-stufe",
+    "begriff": "Nivale Stufe",
+    "definition": "Auch Schneestufe. Höchste Höhenstufe außertropischer Gebirge oberhalb der Schneegrenze. Schnee und Eis tauen ganzjährig nicht ab.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "nomadismus",
+    "begriff": "Nomadismus",
+    "definition": "Nicht sesshafte Lebensweise in Gebieten mit stark schwankendem Futter-/Wasserangebot. Menschen wandern mit ihrem Vieh zu wechselnden Weiden.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "nordatlantische-oszillation-nao",
+    "begriff": "Nordatlantische Oszillation (NAO)",
+    "definition": "Schwankungen des Luftdruckunterschieds zwischen Islandtief im Norden und Azorenhoch im Süden.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oase",
+    "begriff": "Oase",
+    "definition": "Stelle in der Wüste mit Wasservorkommen und üppigem Pflanzenwuchs. Ermöglicht Anbau von Getreide, Obst und Gemüse. Quell-, Grundwasser- und Flussoasen.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "okklusion",
+    "begriff": "Okklusion",
+    "definition": "Wetterfront durch Vereinigung von Kaltfront und Warmfront. Die schnelle Kaltfront schiebt sich unter die Warmfront; Windstärke nimmt ab.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oekologischer-fussabdruck",
+    "begriff": "Ökologischer Fußabdruck",
+    "definition": "Konzept, das den Flächenbedarf ermittelt, den ein Mensch mit seinem Lebensstandard beansprucht. Werte in globalen Hektar (gha).",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oekologische-tragfaehigkeit",
+    "begriff": "Ökologische Tragfähigkeit",
+    "definition": "Maximale Anzahl Organismen, die in einem Lebensbereich ohne langfristigen Schaden existieren können.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oekosystem",
+    "begriff": "Ökosystem",
+    "definition": "System, in dem Umweltbereiche Klima, Tiere, Pflanzen, Wasser, Boden und Mensch in Wechselwirkung stehen.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oekozone",
+    "begriff": "Ökozone",
+    "definition": "Großraum der Erde, der sich aus einheitlichen ökologischen Bedingungen ergibt.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "oekumene",
+    "begriff": "Ökumene",
+    "definition": "Die vom Menschen dauerhaft besiedelten Teile der Erde. Gegensatz: Anökumene.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "orogenese",
+    "begriff": "Orogenese",
+    "definition": "Prozess der Gebirgsbildung durch Zusammenstoßen mehrerer Lithosphärenplatten.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ostseitenklima",
+    "begriff": "Ostseitenklima",
+    "definition": "Klimatyp der immerfeuchten Subtropen, ausschließlich an den Ostseiten der Kontinente. Im Gegensatz zu den Winterfeuchten Subtropen ganzjährig feucht.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "overtourism",
+    "begriff": "Overtourism",
+    "definition": "Form des Tourismus in beliebten, stark besuchten Destinationen. Konflikte zwischen Reisenden und Einheimischen (Müll, Lärm, Wohnraumverdrängung).",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ozonschicht",
+    "begriff": "Ozonschicht",
+    "definition": "Schicht der Atmosphäre in 20–30 km Höhe mit hoher Ozonkonzentration. Schützt die Erde vor energiereicher UV-Strahlung.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "pangaea",
+    "begriff": "Pangäa",
+    "definition": "Urkontinent (ca. 300–160 Mio. Jahre vor heute), der als Riesenkontinent alle heutigen Kontinente vereinte.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "passat",
+    "begriff": "Passat",
+    "definition": "Großräumige Windströmung in den Tropen, vom subtropischen Hochdruckgürtel zum Äquator. Durch Corioliseffekt abgelenkt (Nordost- bzw. Südost-Passat).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "passatzirkulation",
+    "begriff": "Passatzirkulation",
+    "definition": "Geschlossene tropische Luftzirkulation. Warme Luft steigt am Äquator auf, strömt polwärts, sinkt am Wendekreis ab und strömt als Passat zurück.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "pedosphaere",
+    "begriff": "Pedosphäre",
+    "definition": "Bereich der Erdoberfläche, in dem sich Atmosphäre, Biosphäre, Hydrosphäre und Lithosphäre durchdringen. Hier findet Bodenbildung statt.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "permafrost",
+    "begriff": "Permafrost",
+    "definition": "Zustand eines ständig (permanent) gefrorenen Bodens in hohen Breiten/Hochgebirgen, oft mehrere hundert Meter tief. Im Sommer taut nur die oberste Schicht.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "physikalische-verwitterung",
+    "begriff": "Physikalische Verwitterung",
+    "definition": "Mechanische Zerstörung von Gestein durch äußere Einflüsse wie Temperaturschwankungen oder Sprengung durch gefrorenes Wasser (Frostsprengung).",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "planetarische-frontalzone",
+    "begriff": "Planetarische Frontalzone",
+    "definition": "Grenzbereich unterschiedlicher Luftdrucks, der aus den verschiedenen Wärmegehalten äquatorialer und polarer Luft resultiert. Siehe Ferrelzelle.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "plattenzug-slab-pull",
+    "begriff": "Plattenzug (Slab Pull)",
+    "definition": "Antriebskraft an Plattengrenzen: Absinken der ältesten, dichtesten und schwersten Bereiche ozeanischer Platten.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "plucking",
+    "begriff": "Plucking",
+    "definition": "Siehe Detraktion.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "podsol",
+    "begriff": "Podsol",
+    "definition": "Auch Bleicherde/Ascheboden. Bodentyp auf Lockergesteinen unter humiden, kühlgemäßigten Bedingungen. Oberboden stark ausgewaschen, geringe Fruchtbarkeit.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "polare-zone",
+    "begriff": "Polare Zone",
+    "definition": "Zone, die Arktis und Antarktis umfasst. Geprägt durch trockene, sehr kalte Winter und geringe Sommerniederschläge. Keine Vegetation (Eiswüste).",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "polarnacht",
+    "begriff": "Polarnacht",
+    "definition": "Zeit des Jahres, in der die Sonne zwischen Pol und Polarkreis länger als 24 Stunden nicht aufgeht. An den Polen ein halbes Jahr.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "polartag",
+    "begriff": "Polartag",
+    "definition": "Zeit des Jahres, in der die Sonne zwischen Pol und Polarkreis länger als 24 Stunden nicht untergeht. An den Polen ein halbes Jahr.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "polarzelle",
+    "begriff": "Polarzelle",
+    "definition": "Im Drei-Zellen-Modell eine der drei Zellen der atmosphärischen Zirkulation. Luftzirkulation in der Polarzone, u.a. durch polare Ostwinde gekennzeichnet.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "polarzone",
+    "begriff": "Polarzone",
+    "definition": "Beleuchtungszone zwischen Polarkreisen und Polen. Flacher Einfallswinkel der Sonne; Auftreten von Polartag und Polarnacht.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "potenzielle-natuerliche-vegetation",
+    "begriff": "Potenzielle natürliche Vegetation",
+    "definition": "Vegetation, die sich langfristig ohne menschliche Eingriffe herausbilden würde.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "pyroklastischer-strom",
+    "begriff": "Pyroklastischer Strom",
+    "definition": "Heißer Strom aus Feststoff-Gas-Gemisch bei vulkanischen Eruptionen, der mit hoher Geschwindigkeit (bis 400 km/h) hangabwärts fließt.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rainwater-harvesting",
+    "begriff": "Rainwater Harvesting",
+    "definition": "Bewässerungsmethode, bei der Regenwasser gesammelt wird (z.B. über Abflusskanäle, Zisternen oder Terrassen).",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "raubbau-syndrom",
+    "begriff": "Raubbau-Syndrom",
+    "definition": "Situation, in der die ökologische Tragfähigkeit einer Fläche überschritten wird, sodass sie für zukünftige Generationen nicht mehr nutzbar ist.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "reflexion",
+    "begriff": "Reflexion",
+    "definition": "Prozess des Zurückwerfens, z.B. von Strahlung. Siehe Albedo.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "regelation",
+    "begriff": "Regelation",
+    "definition": "Wiederholtes Auftauen und Wiedergefrieren von Schnee oder Eis.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "regenfeldbau",
+    "begriff": "Regenfeldbau",
+    "definition": "Auch Trockenfeldbau. Anbau ohne zusätzliche Bewässerung; die Niederschläge reichen für das Pflanzenwachstum aus.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "regenzeit",
+    "begriff": "Regenzeit",
+    "definition": "Durch hohe Niederschläge gekennzeichneter Zeitraum in den Wechselfeuchten Tropen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "relative-feuchte",
+    "begriff": "Relative Feuchte",
+    "definition": "Verhältnis zwischen der in der Luft enthaltenen und der bei gegebener Temperatur maximal möglichen Wasserdampfmenge. Je geringer, desto mehr Wasser aufnehmbar.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "reliefsphaere",
+    "begriff": "Reliefsphäre",
+    "definition": "Bestandteil der Landschaftshülle, der an der Herausbildung des Georeliefs beteiligt ist. Hier wirken geomorphologische Prozesse.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "revolution",
+    "begriff": "Revolution",
+    "definition": "Bezeichnung für den Umlauf der Erde um die Sonne innerhalb von ca. 365,25 Tagen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rift-valley",
+    "begriff": "Rift Valley",
+    "definition": "Lang gestreckte Senke als Zerrungsstruktur in der Lithosphäre, die beim Divergieren zweier Platten entsteht.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rinnensog-trench-suction",
+    "begriff": "Rinnensog (Trench Suction)",
+    "definition": "Antriebskraft an Plattengrenzen. Die subduzierte Platte zieht die hängende Platte in Richtung der geschaffenen Rinne.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "risikoforschung",
+    "begriff": "Risikoforschung",
+    "definition": "Studium von Risiken, Gefahren und Auswirkungen von Ereignissen. Macht Gefahren durch Abschätzung von Wahrscheinlichkeiten und Schadenshöhen berechenbar.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rohstoffexploration",
+    "begriff": "Rohstoffexploration",
+    "definition": "Suche nach Rohstoffen sowie Erkundung der Lagerstätten.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rotation",
+    "begriff": "Rotation",
+    "definition": "Bezeichnung für die Drehbewegung der Erde innerhalb von rund 24 Stunden um ihre eigene Achse.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rueckendruck-ridge-push",
+    "begriff": "Rückendruck (Ridge Push)",
+    "definition": "Antriebskraft an Plattengrenzen. Magma steigt am mittelozeanischen Rücken auf und wölbt die Erdkruste; der angehobene Rand drückt die Platte weg.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rueckkopplungseffekt",
+    "begriff": "Rückkopplungseffekt",
+    "definition": "Rückwirkung von Veränderungen von Teilkomponenten (z.B. eines Ökosystems) auf andere Systemkomponenten. Kann positive oder negative Folgen haben.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "rueckseitenwetter",
+    "begriff": "Rückseitenwetter",
+    "definition": "Typisches Wetter mit geringer Wolkenbildung, das hinter der vordringenden Kaltfront einer Zyklone herrscht.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sahel-syndrom",
+    "begriff": "Sahel-Syndrom",
+    "definition": "Situation, in der sich Boden und Vegetation nicht mehr regenerieren können und es zur Ausbreitung von Wüsten kommt. Siehe Desertifikation.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sandwueste-erg",
+    "begriff": "Sandwüste (Erg)",
+    "definition": "Wüstenart, von Sanddünen dominiert. Der Wind bläst den Sand aus den Geröll-/Kiesfeldern der Kieswüste und lagert ihn ab.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "savanne",
+    "begriff": "Savanne",
+    "definition": "Hauptvegetationsform der Wechselfeuchten Tropen zwischen Wüste und tropischem Regenwald. Unterschieden in Feucht-, Trocken- und Dornstrauchsavanne.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "schneegrenze",
+    "begriff": "Schneegrenze",
+    "definition": "Grenzsaum, über den hinaus ganzjährig Schnee liegt.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "seafloor-spreading",
+    "begriff": "Seafloor Spreading",
+    "definition": "Auch Ozeanbodenspreizung. Seitliches Auseinanderweichen des Ozeanbodens. An mittelozeanischen Rücken tritt Lava aus, neuer Ozeanboden bildet sich.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sedimentation",
+    "begriff": "Sedimentation",
+    "definition": "Prozess der Ablagerung von Lockermaterial auf der Erdoberfläche, v.a. in Tälern, an Gebirgsrändern und in Meeren.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "seitenmoraene",
+    "begriff": "Seitenmoräne",
+    "definition": "Vom Gletscher abgelagerte Schuttmassen seitlich der Ausbreitungsrichtung des Gletschers.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sekundaerwald",
+    "begriff": "Sekundärwald",
+    "definition": "Wald, der nach Zerstörung des natürlichen Waldes (z.B. durch Brandrodung) nachwächst. Meist lichter und artenärmer.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "shifting-cultivation",
+    "begriff": "Shifting Cultivation",
+    "definition": "Siehe Wanderfeldbau.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "solarkonstante",
+    "begriff": "Solarkonstante",
+    "definition": "Bezeichnung für die Strahlungsleistung der Sonne (1368 W/m²).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "solfatare",
+    "begriff": "Solfatare",
+    "definition": "Fumarolen, die hauptsächlich Schwefelwasserstoff enthalten. Benannt nach dem Vulkankrater Solfatara.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "solifluktion",
+    "begriff": "Solifluktion",
+    "definition": "Langsames Bodenfließen hangabwärts. Taut die Oberfläche des gefrorenen Bodens, kriecht der Teil über dem gefrorenen Untergrund vorwärts. Typisch periglazial.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sommergruener-laub-und-mischwald",
+    "begriff": "Sommergrüner Laub- und Mischwald",
+    "definition": "Vegetationszone der Mittelbreiten mit fruchtbaren Böden (Braunerde). Laubbäume werfen im Herbst ihr Laub ab. Z.B. Eichen, Buchen.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "steigungsregen",
+    "begriff": "Steigungsregen",
+    "definition": "Niederschlag durch Aufstieg feuchter Luftmassen an Gebirgen. Beim Anstieg kühlen sie ab, es kommt zur Kondensation und zu Niederschlägen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "steppe",
+    "begriff": "Steppe",
+    "definition": "Auch Grassteppe. Weitgehend baumlose Graslandschaft der Mittelbreiten. Niederschlag 400–600 mm. Oft fruchtbare Böden (z.B. Schwarzerde).",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "stockwerkbau",
+    "begriff": "Stockwerkbau",
+    "definition": "Vertikale Schichtung der Vegetation, typisch für den tropischen Regenwald: Krautschicht, Strauchschicht, Baumschicht und bis 70 m hohe Baumriesen.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "strahlungsbilanz",
+    "begriff": "Strahlungsbilanz",
+    "definition": "Gleichgewicht der Energie, die von der Erde absorbiert und reflektiert wird.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "strahlungsklimatische-klimazone",
+    "begriff": "Strahlungsklimatische Klimazone",
+    "definition": "Siehe Beleuchtungszone.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "stratosphaere",
+    "begriff": "Stratosphäre",
+    "definition": "Über der Troposphäre liegende Schicht der Atmosphäre. Beginnt über Polargebieten in ca. 10 km, über dem Äquator in ca. 18 km, reicht bis ca. 30 km Höhe.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subalpine-stufe",
+    "begriff": "Subalpine Stufe",
+    "definition": "Höhenstufe außertropischer Gebirge oberhalb der montanen und unterhalb der alpinen Stufe. Gekennzeichnet durch Krummholz und kleinwüchsige Bäume.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subduktion",
+    "begriff": "Subduktion",
+    "definition": "Vorgang, bei dem eine Lithosphärenplatte unter eine andere taucht. Die dichtere (ozeanische) Platte wird subduziert. Siehe Tiefseerinne.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "submontane-stufe",
+    "begriff": "Submontane Stufe",
+    "definition": "Höhenstufe außertropischer Gebirge oberhalb der kollinen Stufe mit Laub- und Mischwald.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subpolare-zone",
+    "begriff": "Subpolare Zone",
+    "definition": "An die Polare Zone äquatorwärts anschließende Zone mit trockenen, kalten Wintern und geringen Sommerniederschlägen. Typische Vegetation: Tundra.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subsistenzwirtschaft",
+    "begriff": "Subsistenzwirtschaft",
+    "definition": "Auch Selbstversorgungswirtschaft. Wirtschaftsform, die nur der Eigenversorgung dient, nicht dem Verkauf.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subsolarer-punkt",
+    "begriff": "Subsolarer Punkt",
+    "definition": "Standort, an dem die Sonne im Zenit steht und somit senkrecht über der Erdoberfläche. Einstrahlung (Insolation) maximal.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "subtropischer-hochdruckguertel",
+    "begriff": "Subtropischer Hochdruckgürtel",
+    "definition": "Zone in den Tropen (ca. 20.–40. Breitenkreis) mit ganzjährig hohem Luftdruck und geringer Bewölkung (Trockenheit). Siehe Passatzirkulation.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "sukzession",
+    "begriff": "Sukzession",
+    "definition": "Prozess der schrittweisen Veränderung von Vegetation und Ökosystemen über die Zeit. Natürlich oder durch menschliche Einflüsse.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tageszeitenklima",
+    "begriff": "Tageszeitenklima",
+    "definition": "Klima, das stärker durch Tagesschwankungen der Temperatur geprägt ist als durch jahreszeitliche. Typisch für die Tropen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "taifun",
+    "begriff": "Taifun",
+    "definition": "Siehe tropischer Wirbelsturm.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "taupunkt",
+    "begriff": "Taupunkt",
+    "definition": "Punkt, an dem eine feuchte Luftmasse komplett gesättigt ist (100 % relative Luftfeuchte). Wird die Taupunkttemperatur überschritten, setzt Kondensation ein.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tephra",
+    "begriff": "Tephra",
+    "definition": "Sammelbegriff für alle festen vulkanischen Materialien, die bei einem Vulkanausbruch ausgestoßen werden, z.B. Asche, Lapilli, Bimsstein, vulkanische Bomben.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "terra-preta",
+    "begriff": "Terra Preta",
+    "definition": "Durch menschliche Bearbeitung entstandener Boden (anthropogener Boden), u.a. aus Pflanzenresten, Dung und Kompost.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "theorie-der-kontinentalverschiebung",
+    "begriff": "Theorie der Kontinentalverschiebung",
+    "definition": "Von Alfred Wegener 1912 begründete Theorie einer kontinuierlichen Bewegung der Kontinente aus einem ehemaligen Superkontinent. Siehe Pangäa.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "theorie-der-plattentektonik",
+    "begriff": "Theorie der Plattentektonik",
+    "definition": "Theorie für die großräumigen Abläufe in der Erdkruste. Beschreibt Bewegungen der Erdplatten und Folgen: Faltengebirge, Tiefseerinnen, Erdbeben, Vulkanismus.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "thermoerosion",
+    "begriff": "Thermoerosion",
+    "definition": "Durch Thermokarst ausgelöste Erosionsprozesse, z.B. durch fließendes Wasser infolge des Auftauens von Eislinsen im Permafrostboden.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "thermohaline-zirkulation",
+    "begriff": "Thermohaline Zirkulation",
+    "definition": "Teil des marinen Zirkulationssystems. Strömungen werden durch Unterschiede in Temperatur und Salzgehalt des Wassers verursacht.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "thermoisoplethendiagramm",
+    "begriff": "Thermoisoplethendiagramm",
+    "definition": "Diagramm, das den tageszeitlichen Temperaturverlauf über das Jahr hinweg angibt.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "thermokarst",
+    "begriff": "Thermokarst",
+    "definition": "Unregelmäßige Reliefausbildungen in subpolaren Gebieten durch das Abtauen von Eis im Permafrostboden. Es bilden sich Seen oder Absenkungen.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "thermosphaere",
+    "begriff": "Thermosphäre",
+    "definition": "Auch Ionosphäre. Schicht der Atmosphäre ab ca. 80 km Höhe, an deren Untergrenze der Luftdruck annähernd null ist.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tiefseerinne",
+    "begriff": "Tiefseerinne",
+    "definition": "Veraltet Tiefseegraben. Zone mit Wassertiefe bis 11 km, an der eine subduzierte Platte abtaucht. Siehe Subduktion.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tierra-caliente",
+    "begriff": "Tierra Caliente",
+    "definition": "Auch heißes Land. Unterste Höhenstufe tropischer Gebirge bis ca. 1200 m. Bei feuchtheißem Klima gedeiht tropischer Regenwald.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tierra-fria",
+    "begriff": "Tierra Fria",
+    "definition": "Auch kühles Land. Höhenstufe tropischer Gebirge bis ca. 3500–4000 m. Hier gedeiht tropischer Nebelwald. Darüber Tierra Helada und Tierra Nevada.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tierra-templada",
+    "begriff": "Tierra Templada",
+    "definition": "Auch gemäßigtes Land. Höhenstufe tropischer Gebirge bis ca. 2000–2500 m. Hier gedeiht tropischer Bergwald.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ton-humus-komplex",
+    "begriff": "Ton-Humus-Komplex",
+    "definition": "Verbindung aus Huminstoffen und Tonmineralen. Die Wechselwirkungen sind entscheidend für die Fruchtbarkeit des Bodens.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tonminerale",
+    "begriff": "Tonminerale",
+    "definition": "Kleinste Minerale (Silikate) bis 0,002 mm, Ergebnis von Verwitterung. Quellfähig und binden Ionen wichtiger Nährstoffe.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "transformstoerung",
+    "begriff": "Transformstörung",
+    "definition": "Bereich, an dem zwei Kontinentalplatten horizontal aneinander vorbeigleiten. Spannungen entladen sich ruckartig als Erdbeben.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "transpiration",
+    "begriff": "Transpiration",
+    "definition": "Verdunstung von Wasser über die Spaltöffnungen in Pflanzenblättern.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockenadiabatisch",
+    "begriff": "Trockenadiabatisch",
+    "definition": "Zustandsänderung einer auf- bzw. absteigenden trockenen Luftmasse. Die Luft kühlt um 1 °C je 100 m ab (trockenadiabatischer Temperaturgradient).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockene-mittelbreiten",
+    "begriff": "Trockene Mittelbreiten",
+    "definition": "Zone der Mittelbreiten mit geringem Niederschlag und Trockenheit. Stark begrenztes Pflanzenwachstum. Steppen und Wüsten/Halbwüsten.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockene-subtropen",
+    "begriff": "Trockene Subtropen",
+    "definition": "Auch Aride Subtropen. Zone der subtropischen Breiten (ca. 20°–30°) mit geringen Niederschlägen und trockenen Bedingungen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockene-tropen",
+    "begriff": "Trockene Tropen",
+    "definition": "Zone der Tropen im Übergangsbereich zu den Trockenen Subtropen. Vorherrschende Vegetation: Wüsten und Halbwüsten.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockenfeldbau",
+    "begriff": "Trockenfeldbau",
+    "definition": "Siehe Regenfeldbau.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockensavanne",
+    "begriff": "Trockensavanne",
+    "definition": "Eine der drei Savannenformen. Bei 4–6 humiden Monaten wächst Gras bis brusthoch. An Trockenheit angepasste Schirmakazien und Affenbrotbäume (Baobabs).",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockenstress",
+    "begriff": "Trockenstress",
+    "definition": "Auch Wasserstress. Belastung von Pflanzen durch Wassermangel. Folgen sind z.B. vertrocknete Blätter und Blattabwurf.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trockenzeit",
+    "begriff": "Trockenzeit",
+    "definition": "Durch geringe oder fehlende Niederschläge gekennzeichneter Zeitraum in den Wechselfeuchten Tropen.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "trogtal",
+    "begriff": "Trogtal",
+    "definition": "Von Gletschern geformtes, U-förmiges Tal, das durch die Eismassen ausgeschürft wurde.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tropenzone",
+    "begriff": "Tropenzone",
+    "definition": "Beleuchtungszone zwischen den Wendekreisen. Gekennzeichnet durch Tageszeitenklima und steilen Einfallswinkel der Sonne. Immerfeuchte und Wechselfeuchte Tropen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "troepfchenbewaesserung",
+    "begriff": "Tröpfchenbewässerung",
+    "definition": "Wassersparende, aber kostenintensive Methode, bei der jede Pflanze über einen dünnen Plastikschlauch mit feinen Düsen mit Wasser versorgt wird.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tropischer-regenwald",
+    "begriff": "Tropischer Regenwald",
+    "definition": "Immergrüner Wald in den Immerfeuchten Tropen, u.a. durch Stockwerkbau gekennzeichnet.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tropischer-wirbelsturm",
+    "begriff": "Tropischer Wirbelsturm",
+    "definition": "Rotierender Luftwirbel von Orkanstärke mit windstillem Zentrum (Auge). Entsteht über warmen Meeren. Je nach Region Hurrikan, Taifun oder Zyklon.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "troposphaere",
+    "begriff": "Troposphäre",
+    "definition": "Unterste Schicht der Atmosphäre, an den Polen bis 8 km, am Äquator bis ca. 18 km. Enthält den größten Teil des Wasserdampfs; hier bilden sich Wolken.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tsunami",
+    "begriff": "Tsunami",
+    "definition": "Sich schnell ausbreitende, in Küstennähe hohe Welle, ausgelöst durch Seebeben, Vulkanausbrüche oder Rutschungen. Kann ganze Küstenstriche verwüsten.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "tundra",
+    "begriff": "Tundra",
+    "definition": "Baumfreie bis baumarme, niedrige Vegetationszone im subpolaren Raum, häufig auf vernässten Böden im Permafrost. Moose, Flechten, Gräser, Zwergsträucher.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "ueberfischung",
+    "begriff": "Überfischung",
+    "definition": "Starke Verringerung des Fischbestandes, wenn mehr Fische gefangen werden, als natürlich nachwachsen können.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "uebergangsklima",
+    "begriff": "Übergangsklima",
+    "definition": "Klima Mitteleuropas zwischen maritimem (Maritimität) und kontinentalem Klima (Kontinentalität).",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "upwelling",
+    "begriff": "Upwelling",
+    "definition": "Teil der thermohalinen Zirkulation, bei dem kaltes Tiefenwasser in höhere Schichten des Meerwassers verlagert wird.",
+    "beispiel": "",
+    "kategorie": "Wasser & Meere",
+    "stufe": "Q12"
+  },
+  {
+    "id": "urban-farming",
+    "begriff": "Urban Farming",
+    "definition": "Anbau von Nutz- (z.B. Gemüse, Kräuter) oder Zierpflanzen in einer Stadt, meist auf öffentlichen Flächen.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "verwitterung",
+    "begriff": "Verwitterung",
+    "definition": "Zerfall von Gesteinen an der Erdoberfläche durch physikalische, chemische und biogene Kräfte. Voraussetzung für Abtragung und Bodenbildung.",
+    "beispiel": "",
+    "kategorie": "Geomorphologie & Verwitterung",
+    "stufe": "Q12"
+  },
+  {
+    "id": "virtuelles-wasser",
+    "begriff": "Virtuelles Wasser",
+    "definition": "Mathematisches Hilfsmittel zur Berechnung des realen Wasserverbrauchs eines Produkts oder Landes. Umfasst den gesamten Herstellungsprozess.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "vulkanexplosionsindex-vei",
+    "begriff": "Vulkanexplosionsindex (VEI)",
+    "definition": "Skala zur Bewertung der Stärke von Vulkanausbrüchen (Menge der Tephra, Höhe der Aschewolken, Dauer). Reicht von 0 bis 8.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "vulkanismus",
+    "begriff": "Vulkanismus",
+    "definition": "Zusammenfassender Begriff für alle Vorgänge, die mit Vulkanen zusammenhängen, d.h. mit dem Aufsteigen von Magma aus dem Erdinneren.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "vulnerabilitaet",
+    "begriff": "Vulnerabilität",
+    "definition": "Empfindlichkeit bzw. Verwundbarkeit von Menschen, Gesellschaften, Infrastrukturen und Sachwerten.",
+    "beispiel": "",
+    "kategorie": "Naturgefahren & Risiko",
+    "stufe": "Q12"
+  },
+  {
+    "id": "waldgrenze",
+    "begriff": "Waldgrenze",
+    "definition": "Grenzsaum, über den hinaus aufgrund des Gebirgsklimas keine geschlossenen Wälder mehr wachsen.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "walker-zirkulation",
+    "begriff": "Walker-Zirkulation",
+    "definition": "In Ost-West-Richtung angeordnete Zirkulationszellen in Äquatornähe. Umkehrung im Pazifik führt zum Klimaphänomen El Niño.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wanderfeldbau",
+    "begriff": "Wanderfeldbau",
+    "definition": "Auch Shifting Cultivation. Ursprünglich verbreitete Anbauform in den Tropen. Felder werden nach Jahren verlegt, da der Boden erschöpft ist.",
+    "beispiel": "",
+    "kategorie": "Landwirtschaft",
+    "stufe": "Q12"
+  },
+  {
+    "id": "warmfront",
+    "begriff": "Warmfront",
+    "definition": "Grenzfläche zwischen warmer und kalter Luft an der Vorderseite einer Zyklone. Abkühlung der Warmluft bei Kontakt mit Kaltluft bewirkt Aufgleitniederschläge.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wasserfussabdruck",
+    "begriff": "Wasserfußabdruck",
+    "definition": "Kennzahl für die gesamte Wassermenge, die Staaten, Unternehmen oder Konsumenten beanspruchen. Umfasst direkten und indirekten Wasserverbrauch.",
+    "beispiel": "",
+    "kategorie": "Mensch & Umwelt",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wasserstress",
+    "begriff": "Wasserstress",
+    "definition": "Siehe Trockenstress.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wechselfeuchte-tropen",
+    "begriff": "Wechselfeuchte Tropen",
+    "definition": "Zone nördlich und südlich der Immerfeuchten Tropen mit jahreszeitlichem Wechsel von Regen- und Trockenzeiten. Vegetationszone der Savanne.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wendekreiswueste",
+    "begriff": "Wendekreiswüste",
+    "definition": "Wüstengebiet im Bereich der Wendekreise. Ursache sind absinkende, erwärmende Luftmassen des Passatkreislaufes. Siehe subtropischer Hochdruckgürtel.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "westwind",
+    "begriff": "Westwind",
+    "definition": "Großräumige Windströmung von Westen nach Osten, typisch für die Zone zwischen 40. und 60. Breitenkreis (Westwindzone). Siehe planetarische Frontalzone.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wetter",
+    "begriff": "Wetter",
+    "definition": "Augenblicklicher Zustand der Atmosphäre an einem Ort. Bestimmt durch Temperatur, Niederschlag, Bewölkung, Wind, Luftdruck und Luftfeuchtigkeit.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wind",
+    "begriff": "Wind",
+    "definition": "Luftströmung zwischen einem Gebiet mit hohem und einem mit niedrigem Luftdruck. Je größer der Druckunterschied, desto stärker der Wind.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "windschliff",
+    "begriff": "Windschliff",
+    "definition": "Äolische, flächenhafte Abtragung durch Wind, der stark genug ist, um Sandkörner zu transportieren.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "winterfeuchte-subtropen",
+    "begriff": "Winterfeuchte Subtropen",
+    "definition": "Auch Mediterrane Subtropen. Zone der Subtropen, meist an Westseiten der Kontinente. Sommerliche Hitze/Trockenheit, milde feuchte Winter (Winterregen).",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "witterung",
+    "begriff": "Witterung",
+    "definition": "Typische Abfolge von Wetterzuständen über mehrere Tage bis Wochen (z.B. Niederschlag oder Temperatur), typisch für eine bestimmte Jahreszeit.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wurzelsprengung",
+    "begriff": "Wurzelsprengung",
+    "definition": "Form der biogenen Verwitterung. Zerkleinerung von Gestein durch die Ausdehnung von Pflanzenwurzeln in Gesteinsklüften.",
+    "beispiel": "",
+    "kategorie": "Gebirge & Relief",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wueste",
+    "begriff": "Wüste",
+    "definition": "Vegetationszone mit sehr geringem bzw. keinem Pflanzenwuchs, gekennzeichnet durch hohe Temperaturen und geringe Niederschläge.",
+    "beispiel": "",
+    "kategorie": "Klimazonen & Vegetationszonen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "wuestenrohboden",
+    "begriff": "Wüstenrohboden",
+    "definition": "Auch Skelettboden. Boden im Übergangsbereich zu den Wüsten mit kaum bodenbildenden Prozessen. Organisches Material kaum vorhanden, weitgehend unfruchtbar.",
+    "beispiel": "",
+    "kategorie": "Böden",
+    "stufe": "Q12"
+  },
+  {
+    "id": "xerophyt",
+    "begriff": "Xerophyt",
+    "definition": "Pflanze, die an extreme Trockenheit angepasst ist und deshalb in Wüstenregionen zu finden ist.",
+    "beispiel": "",
+    "kategorie": "Vegetation & Tropen",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zenit",
+    "begriff": "Zenit",
+    "definition": "Gedachter Punkt am Himmel senkrecht über dem Beobachtungspunkt an der Erdoberfläche. Siehe subsolarer Punkt.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zenitalregen",
+    "begriff": "Zenitalregen",
+    "definition": "Heftige Niederschläge in den Tropen nach dem Zenitstand der Sonne. Erwärmte Luft steigt auf, kühlt ab, Wasserdampf kondensiert und regnet ab.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zirkumpazifischer-feuerring",
+    "begriff": "Zirkumpazifischer Feuerring",
+    "definition": "Vulkangürtel, der den Pazifik von drei Seiten umgibt. Ursache ist das Aufeinandertreffen von Plattengrenzen (Subduktion). Häufige Erdbeben.",
+    "beispiel": "",
+    "kategorie": "Plattentektonik & Vulkanismus",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zungenbeckensee",
+    "begriff": "Zungenbeckensee",
+    "definition": "Im Bereich von Grund- und Endmoränen durch Gletscher entstandener See. Die Moränen wirken als Damm, der Schmelzwässer zurückhält.",
+    "beispiel": "",
+    "kategorie": "Gletscher & Eis",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zyklon",
+    "begriff": "Zyklon",
+    "definition": "Siehe tropischer Wirbelsturm.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "zyklone",
+    "begriff": "Zyklone",
+    "definition": "Tiefdruckgebiet. Dreht sich auf der Nordhalbkugel gegen, auf der Südhalbkugel mit dem Uhrzeigersinn. Warmfront, dann Kaltfront. Gegensatz: Antizyklone.",
+    "beispiel": "",
+    "kategorie": "Klima & Wetter",
+    "stufe": "Q12"
+  },
+  {
+    "id": "abkopplungsstrategie",
+    "begriff": "Abkopplungsstrategie",
+    "definition": "Ansatz der Entwicklungsländer, um sich von der hohen Verschuldung und den Abhängigkeiten von Geberländern zu befreien, indem sie eine eigenständige Entwicklung anstreben und sich aus dem Weltmarkt herauslösen",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "agenda-21",
+    "begriff": "Agenda 21",
+    "definition": "entwicklungs- und umweltpolitisches Aktionsprogramm als Leitpapier zur nachhaltigen Entwicklung für das 21. Jahrhundert, das 1992 in Rio de Janeiro von 178 Staaten beschlossen wurde.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "akkulturation",
+    "begriff": "Akkulturation",
+    "definition": "Oberbegriff für alle Anpassungsprozesse kultureller Aspekte, wie z. B. Wertevorstellungen, Sprache, Religion, Brauchtum. Dazu zählen Integration, Segregation, Marginalisierung und Assimilation, bei der eine Minderheit ihre Kultur aufgibt.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "altenquotient",
+    "begriff": "Altenquotient",
+    "definition": "Verhältnis der Personen im Rentenalter zur Zahl der Bevölkerung im Erwerbsalter",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "anoekumene-2",
+    "begriff": "Anökumene",
+    "definition": "Gebiete, die aufgrund extremer physisch-geographischer Bedingungen unbesiedelt sind, z.B. in den Polargebieten, Wüsten, tropischen Regenwäldern und Hochgebirgen.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "asylberechtigter",
+    "begriff": "Asylberechtigter",
+    "definition": "anerkannter Asylsuchender",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "asylsuchender",
+    "begriff": "Asylsuchender",
+    "definition": "Person, die in einem anderen Land einen Asylantrag gestellt hat und so um Asyl sucht (Anerkennung nach der Genfer Flüchtlingskonvention). Das Asylverfahren ist dabei noch nicht abgeschlossen.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "auslaendische-direktinvestitionen-adi",
+    "begriff": "Ausländische Direktinvestitionen (ADI)",
+    "definition": "finanzielle Beteiligung eines Investors an einem Unternehmen in einem anderen Land. Motive sind z. B. geringere Lohn- oder Produktionskosten oder geringere Steuerabgaben.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "bad-governance",
+    "begriff": "Bad Governance",
+    "definition": "umschreibt eine schlechte Regierungsführung, die einer positiven Entwicklung entgegensteht. Typisch sind Diktatur, Gewalt, Korruption und Unterdrückung jeglicher Freiheiten.",
+    "beispiel": "",
+    "kategorie": "Politik, Theorien & Governance",
+    "stufe": "Q13"
+  },
+  {
+    "id": "bestandserhaltungsniveau",
+    "begriff": "Bestandserhaltungsniveau",
+    "definition": "Mindestanzahl an Geburten, die erforderlich ist, um eine Bevölkerung und damit auch Sozialsysteme stabil zu halten (in Europa 2,1 Kinder pro Frau).",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "binnenmigration",
+    "begriff": "Binnenmigration",
+    "definition": "Wanderung (Migration) innerhalb eines Staates (unterteilt in interregionale und intraregionale Migration).",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "biokapazitaet-2",
+    "begriff": "Biokapazität",
+    "definition": "Fähigkeit von Ökosystemen, dauerhaft nutzbares Material (Nahrung) zur Verfügung zu stellen und den entstehenden Abfall dauerhaft aufzunehmen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "biosphaerenreservat",
+    "begriff": "Biosphärenreservat",
+    "definition": "Gebiet mit besonderen Natur- und Kulturlandschaften, dessen Kernflächen unter Naturschutz stehen und das von der UNESCO ausgewiesen wird.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "brics",
+    "begriff": "BRICS",
+    "definition": "Gruppe der wirtschaftlich stark aufstrebenden Länder Brasilien, Indien, Russland, VR China und Südkorea; seit 2024 als \"BRICS Plus\" bezeichnet (mit Ägypten, Äthiopien, Iran und Vereinigte Arabische Emirate).",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "blaue-infrastruktur",
+    "begriff": "blaue Infrastruktur",
+    "definition": "im Konzept der Schwammstadt natürliche und naturnahe Elemente wie Polder, Zisternen oder wasserdurchlässige Straßenbeläge, die zur Verbesserung der Lebensqualität und der ökologischen Resilienz beitragen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "blau-gruene-infrastruktur",
+    "begriff": "blau-grüne Infrastruktur",
+    "definition": "System aus natürlichen und naturnahen Elementen, das Wasser und Vegetation integriert, um das Abflussverhalten von Niederschlagswasser zu imitieren, es zu speichern und die Versiegelung zu reduzieren.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "braindrain",
+    "begriff": "Braindrain",
+    "definition": "(dt.: Gehirn-Abfluss) Begriff für die Abwanderung gut ausgebildeter Menschen (z. B. Akademiker, Facharbeiter) aus ihrer Heimat in Regionen mit besseren Arbeits- und Verdienstmöglichkeiten.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "braingain",
+    "begriff": "Braingain",
+    "definition": "(dt.: Gehirn-Zuwachs) Begriff für die volkswirtschaftlichen Gewinne durch die Einwanderung besonders ausgebildeter Menschen aus einem anderen Land.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "bruttoinlandsprodukt-bip",
+    "begriff": "Bruttoinlandsprodukt (BIP)",
+    "definition": "Wert sämtlicher Waren und Dienstleistungen, die während eines Jahres innerhalb eines Landes von In- und Ausländern für den Endverbrauch produziert werden.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "bruttonationaleinkommen-bne",
+    "begriff": "Bruttonationaleinkommen (BNE)",
+    "definition": "Gesamtwert aller Waren und Dienstleistungen, die von den Bewohnerinnen und Bewohnern eines Staates (im In- und Ausland) in einem Jahr produziert werden; früher auch Bruttosozialprodukt (BSP) genannt.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "central-business-district-cbd",
+    "begriff": "Central Business District (CBD)",
+    "definition": "engl. Bezeichnung für die Konzentration von Handel und Dienstleistungen im Zentrum einer größeren Stadt (City).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "commercial-strip",
+    "begriff": "Commercial Strip",
+    "definition": "Ansammlung zahlreicher kleinerer und größerer Geschäfte und Dienstleistungsunternehmen entlang der Ausfallstraßen großer nordamerikanischer Städte.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "cradle-to-cradle",
+    "begriff": "Cradle to Cradle",
+    "definition": "(dt.: von der Wiege bis zur Wiege) Konzept für eine Kreislaufwirtschaft, das darauf abzielt, Produkte so zu gestalten, dass sie am Ende ihres Lebenszyklus entweder wiederverwendet oder in biologische Kreisläufe zurückgeführt werden können.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "demographische-dividende",
+    "begriff": "demographische Dividende",
+    "definition": "möglicher volkswirtschaftlicher Gewinn, der durch einen hohen Anteil an jungen Arbeitskräften im Verhältnis zur nicht (mehr) arbeitenden Bevölkerung in einem Land erwirtschaftet wird.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "dependenztheorie",
+    "begriff": "Dependenztheorie",
+    "definition": "Theorie, nach der Unterentwicklung das Ergebnis von Abhängigkeiten (Dependenzen) z.B. zwischen ehemaligen Kolonien und ehemaligen Kolonialstaaten ist.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "depletion-mid-point",
+    "begriff": "Depletion Mid-Point",
+    "definition": "(für Erdöl auch: Peak Oil) Zeitpunkt, ab dem die Erdölförderung ihr Maximum erreicht hat und nicht mehr gesteigert werden kann.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "desurbanisierung",
+    "begriff": "Desurbanisierung",
+    "definition": "(dt.: Entstädterung) Prozess, bei dem es in Städten zu einem Bevölkerungsrückgang zugunsten eines Wachstums von Vorstädten oder ländlichen Gebieten kommt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "digital-divide",
+    "begriff": "Digital Divide",
+    "definition": "siehe digitale Kluft",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "digitale-kluft",
+    "begriff": "digitale Kluft",
+    "definition": "Unterschied im Zugang zur digitalen Informations- und Kommunikationsinfrastruktur (Internet und Telefon) zwischen verschiedenen geographischen Räumen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "disparitaeten",
+    "begriff": "Disparitäten",
+    "definition": "Begriff, der die Unterschiede in der Entwicklung von Staaten bzw. Regionen hinsichtlich Lebenserwartung, Lebenschancen, Lebensstandard, Lebensqualität und Lebensstil ihrer Bevölkerung beschreibt.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "dritte-welt",
+    "begriff": "Dritte Welt",
+    "definition": "Begriff, der auf eine Einteilung der Erde in drei Welten zur Zeit des Kalten Krieges zurückgeht; wurde im Laufe der Zeit immer mehr für arme Länder verwendet.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "earth-overshoot-day",
+    "begriff": "Earth Overshoot Day",
+    "definition": "(dt.: Erdüberlastungstag) symbolischer Tag, der markiert, wann die jährlich verfügbaren Ressourcen statistisch betrachtet erschöpft sind.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "edge-city",
+    "begriff": "Edge City",
+    "definition": "Außenzentrum einer großen nordamerikanischen Stadt mit sämtlichen Merkmalen einer eigenständigen Stadt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "einkindpolitik",
+    "begriff": "Einkindpolitik",
+    "definition": "Form der staatlichen Geburtenkontrolle, die seit den 1980er-Jahren bis 2015 in der VR China angewandt wurde, um den starken Bevölkerungszuwachs zu bremsen.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "emigration",
+    "begriff": "Emigration",
+    "definition": "Auswanderung aus einem Staat. Gegenteil: Immigration.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "endogen-2",
+    "begriff": "endogen",
+    "definition": "hier: Ansichten, die im Gegensatz zu exogenen Perspektiven etwas mit inneren Faktoren zu erklären versuchen.",
+    "beispiel": "",
+    "kategorie": "Politik, Theorien & Governance",
+    "stufe": "Q13"
+  },
+  {
+    "id": "energiewende",
+    "begriff": "Energiewende",
+    "definition": "Bezeichnung für die Abkehr von der Nutzung fossiler Energieträger hin zur Nutzung erneuerbarer Energien.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "entwicklungshilfe",
+    "begriff": "Entwicklungshilfe",
+    "definition": "Unterstützung wirtschaftlich gering entwickelter Länder durch wohlhabendere Staaten und Organisationen (heute meist als Entwicklungszusammenarbeit bezeichnet).",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "entwicklungsland",
+    "begriff": "Entwicklungsland",
+    "definition": "Staaten, die gegenüber den Industrieländern rein wirtschaftlich weniger entwickelt sind.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "entwicklungszusammenarbeit",
+    "begriff": "Entwicklungszusammenarbeit",
+    "definition": "neuerer Begriff für die Unterstützung der Länder des Globalen Südens, der betont, dass es sich nicht um eine einseitige Hilfe, sondern um eine Zusammenarbeit auf gleicher Augenhöhe handelt.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "erste-welt",
+    "begriff": "Erste Welt",
+    "definition": "siehe Dritte Welt",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "exogen-2",
+    "begriff": "exogen",
+    "definition": "hier: Ansichten, die Phänomene nicht durch interne Strukturen, sondern durch von außen kommende Faktoren erklären.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "fluechtling",
+    "begriff": "Flüchtling",
+    "definition": "Person, die ihr Land aufgrund politischen Zwangs, Krieg oder anderer lebensbedrohlicher Notlagen verlassen muss.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "freihandelszone",
+    "begriff": "Freihandelszone",
+    "definition": "Zusammenschluss mehrerer Staaten zu einer Wirtschaftszone, in der der Außenhandel der beteiligten Staaten keinen Beschränkungen wie z. B. Zöllen unterliegt.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gated-community",
+    "begriff": "Gated Community",
+    "definition": "abgeriegeltes und bewachtes Wohnviertel der Ober- und gehobenen Mittelschicht mit zum Teil eigenen Einkaufs- und Unterhaltungsmöglichkeiten.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "geburtenrate-gr",
+    "begriff": "Geburtenrate (GR)",
+    "definition": "Anzahl der Lebendgeborenen pro 1000 Einwohner in einem bestimmten Gebiet und Zeitraum.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "geduldeter",
+    "begriff": "Geduldeter",
+    "definition": "nicht anerkannter Flüchtling oder Asylsuchender, dessen Abschiebung ausgesetzt ist, oder eine Person, die nach Ablauf eines Visums im Zielland geblieben ist.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gender-development-index-gdi",
+    "begriff": "Gender Development Index (GDI)",
+    "definition": "Index der geschlechtsspezifischen Entwicklung.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gender-inequality",
+    "begriff": "Gender Inequality",
+    "definition": "Benachteiligung von Personen eines bestimmten Geschlechts, meist von Frauen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gender-inequality-index-gii",
+    "begriff": "Gender Inequality Index (GII)",
+    "definition": "Index der geschlechtsspezifischen Ungleichheit, herausgegeben von den Vereinten Nationen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gender-pay-gap",
+    "begriff": "Gender Pay Gap",
+    "definition": "(dt.: geschlechtsspezifische Lohnlücke) Unterschied im durchschnittlichen Bruttoverdienst pro Stunde zwischen Frauen und Männern in Prozent.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "generationenvertrag",
+    "begriff": "Generationenvertrag",
+    "definition": "Prinzip der Alterssicherung in Deutschland, bei dem die auszuzahlenden Renten durch die aktuellen Beiträge der gesetzlichen Rentenversicherung finanziert werden.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "genfer-fluechtlingskonvention",
+    "begriff": "Genfer Flüchtlingskonvention",
+    "definition": "internationales Übereinkommen zum Schutz von Flüchtlingen, die aufgrund ihrer Ethnie, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe oder wegen ihrer politischen Überzeugung fliehen müssen.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gentrifizierung",
+    "begriff": "Gentrifizierung",
+    "definition": "sozialräumliche Aufwertung von Stadtgebieten durch Zuzug wohlhabenderer, investitionsfreudiger Menschen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "geodeterminismus",
+    "begriff": "Geodeterminismus",
+    "definition": "Theorie, nach der die Entwicklung bzw. Unterentwicklung von Staaten das Resultat der naturräumlichen Ausstattung ist (Klima, Boden, Rohstoffe).",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gesamtfruchtbarkeitsrate",
+    "begriff": "Gesamtfruchtbarkeitsrate",
+    "definition": "(auch: Gesamtfertilitätsrate, engl.: Total Fertility Rate, TFR) Anzahl der Kinder, die in einer bestimmten Region von einer Frau im Durchschnitt geboren werden.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gini-koeffizient",
+    "begriff": "Gini-Koeffizient",
+    "definition": "Indikator, mit dem z.B. die Ungleichheit der Einkommensverteilung einer Bevölkerung gemessen wird (Werte zwischen 0 und 1).",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "global-city",
+    "begriff": "Global City",
+    "definition": "Metropole mit einer besonders starken Konzentration von Hauptquartieren international operierender Unternehmen sowie hochrangigen unternehmensorientierten Dienstleistungen und Verflechtungen in Kultur und Politik.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "global-player",
+    "begriff": "Global Player",
+    "definition": "weltweit agierendes multinationales Unternehmen, das Produktionsstandorte in der ganzen Welt hat und den Weltmarkt beliefert.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "globaler-norden",
+    "begriff": "Globaler Norden",
+    "definition": "Sammelbegriff für wirtschaftlich, politisch und bzw. oder gesellschaftlich privilegierte und in der globalisierten Welt aktive Länder.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "globaler-sueden-2",
+    "begriff": "Globaler Süden",
+    "definition": "Sammelbegriff für wirtschaftlich, politisch und bzw. oder gesellschaftlich benachteiligte Länder.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "globalisierung",
+    "begriff": "Globalisierung",
+    "definition": "Begriff für die zunehmende Internationalisierung der Produktion, der Beschaffung und des Absatzes von Waren und Dienstleistungen sowie des gesellschaftlichen Lebens.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "good-governance",
+    "begriff": "Good Governance",
+    "definition": "Begriff, der eine gute Regierungsführung beschreibt, die zu positiven Entwicklungsergebnissen für das Land beiträgt.",
+    "beispiel": "",
+    "kategorie": "Politik, Theorien & Governance",
+    "stufe": "Q13"
+  },
+  {
+    "id": "grundbeduerfnisstrategie",
+    "begriff": "Grundbedürfnisstrategie",
+    "definition": "Strategie zur Sicherung des Mindestbedarfs, den ein Mensch zum Leben braucht (Nahrung, Trinkwasser, Kleidung, Unterkunft, Bildung, Arbeit, medizinische Versorgung).",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "gruene-infrastruktur",
+    "begriff": "grüne Infrastruktur",
+    "definition": "natürliche und naturnahe Elemente in städtischen Gebieten wie Parks, Bäume, Grün- und Freiflächen, die zur Verbesserung der Lebensqualität und ökologischen Resilienz beitragen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "guerilla-gardening",
+    "begriff": "Guerilla Gardening",
+    "definition": "heimliche, aber friedliche Aussaat im urbanen Raum, ohne vorher eine Genehmigung eingeholt zu haben.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "hilfe-zur-selbsthilfe",
+    "begriff": "Hilfe zur Selbsthilfe",
+    "definition": "Begriff aus der Entwicklungszusammenarbeit: Die Bewohner eines Entwicklungslandes werden so unterstützt, dass sie ihr Dorf oder ihre Region aus eigener Kraft weiterentwickeln können.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "hoehengrenze",
+    "begriff": "Höhengrenze",
+    "definition": "spezielle Form der Kältegrenze in Hochgebirgen, teilweise in Verbindung mit einem steilen Relief.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "human-development-index-hdi",
+    "begriff": "Human Development Index (HDI)",
+    "definition": "Index für menschliche Entwicklung.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "immigration",
+    "begriff": "Immigration",
+    "definition": "Einwanderung in einen Staat.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "index-der-geschlechtsspezifischen-entwicklung",
+    "begriff": "Index der geschlechtsspezifischen Entwicklung",
+    "definition": "Indikator zur Ermittlung geschlechtsspezifischer Ungleichheiten in den Bereichen Gesundheit, Bildung und wirtschaftliche Ressourcen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "index-fuer-mehrdimensionale-armut",
+    "begriff": "Index für mehrdimensionale Armut",
+    "definition": "Indikator zur Messung von Armut durch eine Kombination aus zehn Einzelindikatoren in den Dimensionen Gesundheit, Bildung und Lebensqualität.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "index-fuer-menschliche-entwicklung",
+    "begriff": "Index für menschliche Entwicklung",
+    "definition": "(engl.: Human Development Index, HDI) Methode zur Berechnung des Entwicklungsstands von Staaten unter Berücksichtigung von Lebenserwartung, Schulbesuchsdauer und Bruttonationaleinkommen pro Kopf.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "industrieland",
+    "begriff": "Industrieland",
+    "definition": "Land, das in der rein wirtschaftlichen Entwicklung weit fortgeschritten ist.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "informelle-wirtschaft",
+    "begriff": "informelle Wirtschaft",
+    "definition": "(veraltet: informeller Sektor) Wirtschaftsform, der sich der staatlichen Kontrolle in jeder Weise entzogen hat (keine Steuern, kein Mindestlohn, keine Sozialversicherung).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "inklusion",
+    "begriff": "Inklusion",
+    "definition": "aus der Pädagogik stammender Ansatz, der darauf abzielt, alle Menschen in die heterogene Gesellschaft einzubeziehen und ihnen aktive Teilhabe zu ermöglichen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "integration",
+    "begriff": "Integration",
+    "definition": "bedeutet allgemein Eingliederung; hier die Einbindung einer Minderheit von Menschen in die Gesellschaft.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "internationale-migration",
+    "begriff": "internationale Migration",
+    "definition": "grenzüberschreitende Wanderung von Menschen, die seit mindestens einem Jahr außerhalb ihres Herkunftslandes leben.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "irregulaere-migration",
+    "begriff": "irreguläre Migration",
+    "definition": "bezeichnet ein nicht genehmigtes Einreisen in ein Land oder das Überschreiten der genehmigten Aufenthaltsdauer in einem Land.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "joint-venture",
+    "begriff": "Joint Venture",
+    "definition": "Wirtschaftsunternehmen, das von zwei oder mehr Unternehmen gemeinsam gegründet wurde.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "jugendquotient",
+    "begriff": "Jugendquotient",
+    "definition": "Verhältnis der jungen Bevölkerung (i.d.R. bis 15 Jahre) zur Bevölkerung im erwerbsfähigen Alter.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kaeltegrenze-2",
+    "begriff": "Kältegrenze",
+    "definition": "Grenzsaum, ab dem die Temperatur so gering ist, dass Pflanzenwachstum und damit eine Besiedlung in der Regel nicht mehr möglich sind.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kaufkraft",
+    "begriff": "Kaufkraft",
+    "definition": "das für Konsumzwecke zur Verfügung stehende Einkommen eines Haushalts.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kaufkraftparitaet",
+    "begriff": "Kaufkraftparität",
+    "definition": "Korrekturfaktor, um volkswirtschaftliche Größen international vergleichbar zu machen (bekannt unter der englischen Abkürzung PPP).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kleine-tiger",
+    "begriff": "Kleine Tiger",
+    "definition": "(auch: Tigerstaaten) Bezeichnung Ende des 20. Jahrhunderts für Staaten in Ost- und Südostasien, die sich wirtschaftlich rasch entwickelten (Hongkong, Singapur, Südkorea, Taiwan).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "klimaziele",
+    "begriff": "Klimaziele",
+    "definition": "verschiedene Ziele, um die gegenwärtige globale Erwärmung zu begrenzen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kreislaufwirtschaft",
+    "begriff": "Kreislaufwirtschaft",
+    "definition": "Abfallvermeidung durch primär abfallarme Produktgestaltung sowie Getrenntsammlung der Wertstoffe zum anschließenden Recycling.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "kuestengrenze",
+    "begriff": "Küstengrenze",
+    "definition": "Grenze zwischen Land und Meer; meeresnahe Räume sind traditionell dicht besiedelt.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "least-developed-countries-ldcs",
+    "begriff": "Least Developed Countries (LDCs)",
+    "definition": "(veraltet: Fünfte Welt) Gruppe innerhalb der Entwicklungsländer, die laut Beschluss der Vereinten Nationen am wenigsten entwickelt sind.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "lebenserwartung-bei-geburt",
+    "begriff": "Lebenserwartung bei Geburt",
+    "definition": "statistische Kennzahl, die angibt, wie viele Jahre ein neugeborenes Kind voraussichtlich leben wird.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "less-developed-countries",
+    "begriff": "Less Developed Countries",
+    "definition": "auch: Developing Countries, veraltet: Vierte Welt; Bezeichnung der Vereinten Nationen für Entwicklungsländer bzw. Länder des Globalen Südens.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "liberalisierung",
+    "begriff": "Liberalisierung",
+    "definition": "Maßnahmen, um Wirtschaft und Politik eines Landes im Sinne des Liberalismus zu entwickeln (individuelle Freiheit, Selbstverantwortung, Freihandel).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "lichtverschmutzung",
+    "begriff": "Lichtverschmutzung",
+    "definition": "auch Lichtsmog; Form der Umweltverschmutzung durch die übermäßige künstliche Beleuchtung in besiedelten Regionen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "lokale-agenda-21",
+    "begriff": "Lokale Agenda 21",
+    "definition": "Aktionsprogramm für eine nachhaltige und zukunftsfähige Entwicklung auf lokaler Ebene.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "lorenzkurve",
+    "begriff": "Lorenzkurve",
+    "definition": "graphische Darstellung, um die Verteilung von Einkommen oder Vermögen innerhalb einer Bevölkerung darzustellen.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "manganknolle",
+    "begriff": "Manganknolle",
+    "definition": "unregelmäßig geformte Gesteinsverfestigung aus Mangan- und Eisenverbindungen auf dem Boden der Tiefsee.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "manufacturing-belt",
+    "begriff": "Manufacturing Belt",
+    "definition": "ältestes und größtes Industriegebiet der USA, das sich entlang der Großen Seen erstreckt.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "marginalisierung",
+    "begriff": "Marginalisierung",
+    "definition": "Prozess, bei dem eine Bevölkerungsgruppe sozial und wirtschaftlich an den Rand der Gesellschaft gedrängt wird.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "marginalsiedlung",
+    "begriff": "Marginalsiedlung",
+    "definition": "oft ohne Erlaubnis errichtetes Elendsviertel aus provisorisch errichteten Hütten am Rande einer Stadt; auch als informelle Siedlung bezeichnet.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "medina",
+    "begriff": "Medina",
+    "definition": "Altstadt in einer orientalisch-islamischen Stadt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "megapolisierung",
+    "begriff": "Megapolisierung",
+    "definition": "Prozess, durch den Megastädte entstehen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "megastadt",
+    "begriff": "Megastadt",
+    "definition": "eine Stadt mit mehreren Millionen Einwohnern (nach derzeit gängiger Definition mindestens zehn Millionen).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "mesoklima",
+    "begriff": "Mesoklima",
+    "definition": "atmosphärischer Zustand mit einer Ausdehnung von ca. 1 bis 2000 km und einer Lebensdauer von einer Stunde bis zu einer Woche.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
   },
   {
     "id": "metropole",
-    "begriff": "Metropole (PLATZHALTER)",
-    "definition": "Großstadt mit überregionaler politischer und wirtschaftlicher Bedeutung.",
-    "beispiel": "Berlin als Beispiel.",
-    "kategorie": "Humangeographie"
-  },
-  {
-    "id": "sediment",
-    "begriff": "Sediment (PLATZHALTER)",
-    "definition": "Ablagerung von Gesteinsmaterial durch Wind, Wasser oder Eis.",
-    "beispiel": "Sandbank im Fluss.",
-    "kategorie": "Geologie"
-  },
-  {
-    "id": "treibhaus",
-    "begriff": "Treibhauseffekt (PLATZHALTER)",
-    "definition": "Erwärmung der Erde durch Spurengase, die Wärmestrahlung zurückhalten.",
-    "beispiel": "CO2 als Treibhausgas.",
-    "kategorie": "Klima"
+    "begriff": "Metropole",
+    "definition": "Großstadt, die einen politischen, gesellschaftlichen und wirtschaftlichen Mittelpunkt eines Landes darstellt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
   },
   {
     "id": "migration",
-    "begriff": "Migration (PLATZHALTER)",
-    "definition": "Wanderung von Menschen über Grenzen oder innerhalb eines Landes.",
-    "beispiel": "Arbeitsmigration in Ballungsräume.",
-    "kategorie": "Humangeographie"
+    "begriff": "Migration",
+    "definition": "Wanderung einzelner Menschen oder von Menschen in Gruppen, die mit einem Wechsel des Wohnsitzes verbunden ist.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "modal-split",
+    "begriff": "Modal Split",
+    "definition": "Konzept, den Personen- und Gütertransport auf mehrere nachhaltige Verkehrsmittel aufzuteilen.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "modell-des-demographischen-uebergangs",
+    "begriff": "Modell des demographischen Übergangs",
+    "definition": "allgemeines Modell der Bevölkerungsentwicklung im Rahmen der wirtschaftlichen Entwicklung.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "modernisierungstheorie",
+    "begriff": "Modernisierungstheorie",
+    "definition": "Sammelbegriff für verschiedene sozialwissenschaftliche Entwicklungstheorien, die erklären, wie traditionelle Gesellschaften sich zu modernen entwickeln.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "multidimensional-poverty-index-mpi",
+    "begriff": "Multidimensional Poverty Index (MPI)",
+    "definition": "Index für mehrdimensionale Armut.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "multipolare-welt",
+    "begriff": "multipolare Welt",
+    "definition": "Begriff zur Beschreibung einer Weltordnung, in der mehrere Staaten als Einfluss- und Machtzentren fungieren.",
+    "beispiel": "",
+    "kategorie": "Politik, Theorien & Governance",
+    "stufe": "Q13"
+  },
+  {
+    "id": "nationalpark",
+    "begriff": "Nationalpark",
+    "definition": "großes Gebiet mit besonders schönen oder seltenen Naturlandschaften sowie naturnahen Kulturlandschaften unter besonderem Schutz.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "natuerliches-bevoelkerungswachstum",
+    "begriff": "natürliches Bevölkerungswachstum",
+    "definition": "Veränderung der Bevölkerung eines Staates, die durch die Geburtenrate und Sterberate bestimmt wird (ohne Migration).",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "naturpark",
+    "begriff": "Naturpark",
+    "definition": "größerer Landschaftsraum, in dem besonders auf den Schutz der Umwelt und den Erhalt der (Kultur-)Landschaft geachtet wird.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "neokolonialismus",
+    "begriff": "Neokolonialismus",
+    "definition": "neuer Kolonialismus; Form der Einflussnahme und Kontrolle, die ehemalige Kolonialmächte oder neue Hegemonialstaaten heute auf frühere Kolonien ausüben.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "nettomigration",
+    "begriff": "Nettomigration",
+    "definition": "Wanderungssaldo.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "newly-industrializing-country-nic",
+    "begriff": "Newly Industrializing Country (NIC)",
+    "definition": "Schwellenland, das durch rasantes wirtschaftliches Wachstum an der Schwelle zum Industrieland steht.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "nichtregierungsorganisation",
+    "begriff": "Nichtregierungsorganisation",
+    "definition": "(engl.: Non-Governmental Organization, NGO) Sammelbegriff für engagierte, nicht staatliche Organisationen wie z. B. Greenpeace oder WWF.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "non-governmental-organization-ngo",
+    "begriff": "Non-Governmental Organization (NGO)",
+    "definition": "siehe Nichtregierungsorganisation.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "offshore",
+    "begriff": "offshore",
+    "definition": "(dt.: vor der Küste) Bezeichnung für z. B. auf offener See befindliche Erdölplattformen oder Windkraftanlagen. Gegenteil: onshore.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "oekologische-tragfaehigkeit-2",
+    "begriff": "ökologische Tragfähigkeit",
+    "definition": "die maximale Zahl von Menschen, die auf der Erde existieren können, ohne diese nachhaltig zu schädigen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "oekologischer-fussabdruck-2",
+    "begriff": "ökologischer Fußabdruck",
+    "definition": "Konzept, welches den Flächenbedarf ermittelt, der den individuellen oder gesellschaftlichen Lebensstil ermöglicht.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "oekumene-2",
+    "begriff": "Ökumene",
+    "definition": "dauerhaft von Menschen bewohntes Gebiet, in dem Klima, Boden und Relief günstig für eine Besiedelung sind.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "oelsand",
+    "begriff": "Ölsand",
+    "definition": "Mischung aus Ton, Sand, Wasser und Bitumen, aus dem Rohöl gewonnen werden kann.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "onshore",
+    "begriff": "onshore",
+    "definition": "(dt.: an Land) Bezeichnung für Einrichtungen wie Windkraftanlagen, die sich auf dem Festland befinden. Gegenteil: offshore.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "opec",
+    "begriff": "OPEC",
+    "definition": "(Organization of Petroleum Exporting Countries) Organisation Erdöl exportierender Länder zur Abstimmung der Erdölfördermengen und -preise.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "overtourism-2",
+    "begriff": "Overtourism",
+    "definition": "Auswirkung des Tourismus in beliebten und daher besonders stark besuchten Destinationen, die zu Konflikten zwischen Reisenden und Einheimischen führt.",
+    "beispiel": "",
+    "kategorie": "Tourismus & Stadtleben",
+    "stufe": "Q13"
+  },
+  {
+    "id": "peak-oil",
+    "begriff": "Peak Oil",
+    "definition": "siehe Depletion Mid-Point.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "personenkilometer-pkm",
+    "begriff": "Personenkilometer (Pkm)",
+    "definition": "Einheit für den Personenverkehr als Verkehrsleistung (Kilometer multiplied by Anzahl der Reisenden).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "placelessness",
+    "begriff": "Placelessness",
+    "definition": "(dt.: Ortlosigkeit) räumliches Phänomen, das sowohl den Prozess der Homogenisierung von Orten als auch das greifbare Ergebnis dieser Entwicklung umfasst.",
+    "beispiel": "",
+    "kategorie": "Tourismus & Stadtleben",
+    "stufe": "Q13"
+  },
+  {
+    "id": "planetare-grenzen",
+    "begriff": "planetare Grenzen",
+    "definition": "Konzept, mit dem auf die ständig wachsenden Eingriffe des Menschen auf das Erdsystem hingewiesen werden soll.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "plurinationalismus",
+    "begriff": "Plurinationalismus",
+    "definition": "Konzept, nach dem die Unterschiedlichkeit bzw. Vielfalt einer Bevölkerung durch den Staat berücksichtigt wird.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "post-development-ansaetze",
+    "begriff": "Post-Development-Ansätze",
+    "definition": "Perspektiven, die das Konzept \"Entwicklung\" und damit verbundene Maßnahmen kritisch betrachten.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "postkolonialismus",
+    "begriff": "Postkolonialismus",
+    "definition": "Ansatz, der untersucht, wie koloniale Strukturen, Machtverhältnisse und kulturelle Narrative bis in die Gegenwart hinein fortwirken.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "primaerer-sektor",
+    "begriff": "primärer Sektor",
+    "definition": "Wirtschaftssektor, zu dem die Land- und Forstwirtschaft, die Jagd, die Fischereiwirtschaft sowie der Bergbau ohne Aufbereitung zählen (Urproduktion).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "primaerrohstoff",
+    "begriff": "Primärrohstoff",
+    "definition": "neu gewonnener Rohstoff, der dem Produktionsprozess zugeführt wird.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "primatstadt",
+    "begriff": "Primatstadt",
+    "definition": "Großstadt, oft die Hauptstadt eines Landes, die an Einwohnerzahl und Wirtschaftskraft alle anderen Städte eines Landes überragt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "protektionismus",
+    "begriff": "Protektionismus",
+    "definition": "Bezeichnung für Schutz- und Hilfsmaßnahmen (z. B. Zölle, Subventionen), mit denen ein Staat versucht, heimische Märkte zu schützen.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "push-pull-faktoren",
+    "begriff": "Push-Pull-Faktoren",
+    "definition": "auslösende Ursachen für die Migration von Menschen; Push-Faktoren bewegen zum Verlassen einer Region, Pull-Faktoren ziehen in eine neue Region.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "quartaerer-sektor",
+    "begriff": "quartärer Sektor",
+    "definition": "hochspezialisierte Dienstleistungen, die besonders hohe Ansprüche stellen und eine besondere Ausbildung erfordern.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "recycling",
+    "begriff": "Recycling",
+    "definition": "Wiederverwertung von Abfallstoffen zur Herstellung neuer Produkte.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "reserven",
+    "begriff": "Reserven",
+    "definition": "Teil der Gesamtmenge eines Rohstoffs, der mit den heutigen Mitteln wirtschaftlich abgebaut werden kann.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "ressourcen",
+    "begriff": "Ressourcen",
+    "definition": "geschätzter oder vermuteter Gesamtvorrat eines Rohstoffs einschließlich des Anteils der Reserven.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "ressourceneffizienz",
+    "begriff": "Ressourceneffizienz",
+    "definition": "optimale Nutzung von Ressourcen, um den maximalen Nutzen bei minimalem Ressourcenverbrauch zu erzielen.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "reurbanisierung",
+    "begriff": "Reurbanisierung",
+    "definition": "Zunahme der Einwohner und Beschäftigten in der Stadt nach einer Phase der Desurbanisierung.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "schengen-raum",
+    "begriff": "Schengen-Raum",
+    "definition": "Gemeinschaft von Staaten, in denen auf feste Personenkontrollen bei Binnengrenzüberschreitung verzichtet wird.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "schwammstadt",
+    "begriff": "Schwammstadt",
+    "definition": "(engl.: Sponge City) Konzept der Stadtplanung, um den Folgen des rezenten Klimawandels entgegenzuwirken (Wasserspeicherung und -abgabe).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "schwellenland",
+    "begriff": "Schwellenland",
+    "definition": "Land, das sich im Übergang vom Entwicklungsland zum Industrieland befindet.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sdg-index",
+    "begriff": "SDG-Index",
+    "definition": "Maßzahl, mit der das Erreichen der 17 Ziele nachhaltiger Entwicklung (Sustainable Development Goals) quantitativ angegeben wird.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "segregation",
+    "begriff": "Segregation",
+    "definition": "Prozess oder Zustand der räumlichen Trennung und Abgrenzung von ethnischen oder sozialen Bevölkerungsgruppen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sekundaerer-sektor",
+    "begriff": "sekundärer Sektor",
+    "definition": "Wirtschaftssektor der Bearbeitung, Verarbeitung und Aufbereitung von Rohstoffen (Industrie, Baugewerbe).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sekundaerrohstoff",
+    "begriff": "Sekundärrohstoff",
+    "definition": "Rohstoff, der durch Aufarbeitung aus entsorgtem Material gewonnen wird.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sickerrate",
+    "begriff": "Sickerrate",
+    "definition": "Wert in Prozent, der angibt, welcher Anteil der touristischen Einnahmen in den Zielländern zurück ins Ausland fließt.",
+    "beispiel": "",
+    "kategorie": "Tourismus & Stadtleben",
+    "stufe": "Q13"
+  },
+  {
+    "id": "slum-upgrading",
+    "begriff": "Slum Upgrading",
+    "definition": "Form der Legalisierung von Marginalsiedlungen durch Regelung von Besitzverhältnissen und Anbindung an Infrastruktur.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "smart-city",
+    "begriff": "Smart City",
+    "definition": "urbanes Konzept, das digitale Technologien und Daten sinnvoll nutzt, um die Lebensqualität zu verbessern und Effizienz zu steigern.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "smart-grid",
+    "begriff": "Smart Grid",
+    "definition": "Bezeichnung für ein intelligentes Stromnetz, das durch digitale Technologien Erzeugung, Verteilung und Verbrauch optimiert.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "souk",
+    "begriff": "Souk",
+    "definition": "Geschäftsviertel in einer orientalisch-islamischen Stadt (Basar).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sozialer-wohnungsbau",
+    "begriff": "sozialer Wohnungsbau",
+    "definition": "staatlich veranlasster und zum Teil geförderter Bau mehrgeschossiger Wohnblöcke für bezahlbaren Wohnraum.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "standortfaktor",
+    "begriff": "Standortfaktor",
+    "definition": "Einflussgröße, die bei der Auswahl eines Standortes für ein Unternehmen eine wichtige Rolle spielt.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "statische-reichweite",
+    "begriff": "statische Reichweite",
+    "definition": "Verhältnis von Rohstoffreserven zum Rohstoffverbrauch, ausgedrückt in Jahren.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sterberate-sr",
+    "begriff": "Sterberate (SR)",
+    "definition": "Anzahl der Gestorbenen pro 1000 Einwohnerinnen und Einwohner in einem bestimmten Gebiet und Zeitraum.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "strategie-der-ausgleichenden-entwicklung",
+    "begriff": "Strategie der ausgleichenden Entwicklung",
+    "definition": "Entwicklungsstrategie mit dem Ziel, ein autarkes Wirtschaftssystem durch breit gestreute, aufeinander abgestimmte Investitionen zu schaffen.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "suboekumene",
+    "begriff": "Subökumene",
+    "definition": "Region, die nur zeitweise besiedelt wird (z. B. von Nomaden).",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "substitution",
+    "begriff": "Substitution",
+    "definition": "Ersetzen von Gütern durch jeweils andere (z. B. Ersetzen fossiler Rohstoffe durch erneuerbare).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "suburbanisierung",
+    "begriff": "Suburbanisierung",
+    "definition": "Bezeichnung für die Zersiedelung des städtischen Umlands verbunden mit einer Abwanderung der Bevölkerung aus der Kernstadt.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "sustainable-development-goals-sdgs",
+    "begriff": "Sustainable Development Goals (SDGs)",
+    "definition": "Ziele nachhaltiger Entwicklung der Vereinten Nationen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "syndromkonzept",
+    "begriff": "Syndromkonzept",
+    "definition": "Methodik zur ganzheitlichen Betrachtung globaler Problemfelder und Umweltveränderungen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "terms-of-trade",
+    "begriff": "Terms of Trade",
+    "definition": "Verhältnis zwischen Exportpreisen und Importpreisen eines Landes.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "tertiaerer-sektor",
+    "begriff": "tertiärer Sektor",
+    "definition": "Wirtschaftsbereich, in welchem alle Dienstleistungen zusammengefasst werden (Handel, Verkehr, Verwaltung, Bildung etc.).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "teu",
+    "begriff": "TEU",
+    "definition": "(Twenty Foot Equivalent Unit) Abkürzung für eine genormte Container-Maßeinheit (20 Fuß).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "teufelskreis",
+    "begriff": "Teufelskreis",
+    "definition": "auch als Circulus Vitiosus bezeichnet; beschreibt sich gegenseitig negativ verstärkende Faktoren, die zu einer Abwärtsspirale führen.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "theorie-der-fragmentierenden-entwicklung",
+    "begriff": "Theorie der fragmentierenden Entwicklung",
+    "definition": "Theorie, die besagt, dass am globalen Wettbewerb nur bestimmte Orte und Teile der Bevölkerung teilhaben und Fragmente bilden.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "total-fertility-rate-tfr",
+    "begriff": "Total Fertility Rate (TFR)",
+    "definition": "siehe Gesamtfruchtbarkeitsrate.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "tourismus",
+    "begriff": "Tourismus",
+    "definition": "Fremdenverkehr; unterscheidet sich nach Motivation (Erholung, Kultur, Kongress) und Merkmalen (Individual-, Massen-, nachhaltiger Tourismus).",
+    "beispiel": "",
+    "kategorie": "Tourismus & Stadtleben",
+    "stufe": "Q13"
+  },
+  {
+    "id": "transnationale-migration",
+    "begriff": "transnationale Migration",
+    "definition": "Form von Migration, bei der soziale Beziehungen und Verbindungen zur Herkunftsregion gepflegt werden und Identitäten transnational sind.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "transnationales-unternehmen-tnu",
+    "begriff": "transnationales Unternehmen (TNU)",
+    "definition": "in mehreren Staaten, oft weltweit operierendes und produzierendes Großunternehmen.",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "trickle-down-effekt",
+    "begriff": "Trickle-Down-Effekt",
+    "definition": "Theorie, der zufolge ein wachsender Wohlstand in oberen Gesellschaftsschichten durch Konsum und Investitionen auf untere Schichten \"durchsickert\".",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "trockengrenze",
+    "begriff": "Trockengrenze",
+    "definition": "Trennlinie, die Gebiete mit Niederschlagsüberschuss von Gebieten mit Niederschlagsdefizit abgrenzt und ab der Pflanzen nicht mehr genug Wasser zur Verfügung steht.",
+    "beispiel": "",
+    "kategorie": "Naturraum & Grenzen",
+    "stufe": "Q13"
+  },
+  {
+    "id": "ueberalterung",
+    "begriff": "Überalterung",
+    "definition": "Zustand einer Gesellschaft, wenn die Zahl der alten Menschen im Verhältnis zu den jüngeren Jahrgängen ungewöhnlich hoch ist.",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "unhcr",
+    "begriff": "UNHCR",
+    "definition": "United Nations High Commissioner for Refugees, Flüchtlingshilfswerk der Vereinten Nationen. Organisation, die von der UN beauftragt ist, um für die Einhaltung und Umsetzung der Genfer Flüchtlingskonvention einzutreten.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urban-blight",
+    "begriff": "Urban Blight",
+    "definition": "Prozess des Verfalls und der Verwahrlosung städtischer Räume.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urban-gardening",
+    "begriff": "Urban Gardening",
+    "definition": "urbaner, d. h. städtischer Gartenanbau (Nutzung städtischer Flächen für den Anbau von Obst, Gemüse, Pflanzen oder Blumen).",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urban-mining",
+    "begriff": "Urban Mining",
+    "definition": "(dt.: städtischer Bergbau) Prozess der Rückgewinnung von Rohstoffen und Materialien aus urbanen Abfällen, bestehenden Infrastrukturen und alten Gebäuden.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urban-sprawl",
+    "begriff": "Urban Sprawl",
+    "definition": "unkontrollierte Ausbreitung der Städte (siehe Suburbanisierung).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urbanisierung",
+    "begriff": "Urbanisierung",
+    "definition": "Prozess der zunehmenden Konzentration der Bevölkerung in städtischen Gebieten (Verstädterung) sowie die Verbreitung städtischer Lebens- und Verhaltensweisen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "urbanitaet",
+    "begriff": "Urbanität",
+    "definition": "städtische Art, städtischer Charakter.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "verstaedterung",
+    "begriff": "Verstädterung",
+    "definition": "Zunahme der Stadtbevölkerung gegenüber der Landbevölkerung (flächenhafte Ausdehnung der Städte durch Bau neuer Häuser und Straßen).",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "verstaedterungsgrad",
+    "begriff": "Verstädterungsgrad",
+    "definition": "Maß der Verstädterung in einem Raum, gemessen am Anteil der städtischen Bevölkerung an der Gesamtbevölkerung.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "verstaedterungsrate",
+    "begriff": "Verstädterungsrate",
+    "definition": "Zuwachs des Anteils der Stadtbevölkerung an der Gesamtbevölkerung eines bestimmten Raumes in einer bestimmten Zeitspanne.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "vertical-gardening",
+    "begriff": "Vertical Gardening",
+    "definition": "vertikale Bepflanzung von Wänden oder Regalen, um den begrenzten Raum in städtischen Umgebungen effizient zu nutzen.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "wachstumsrate",
+    "begriff": "Wachstumsrate",
+    "definition": "Differenz aus Geburtenrate und Sterberate (natürliches Bevölkerungswachstum).",
+    "beispiel": "",
+    "kategorie": "Bevölkerung & Demographie",
+    "stufe": "Q13"
+  },
+  {
+    "id": "wadi",
+    "begriff": "Wadi",
+    "definition": "Flussbett in der Wüste oder der Savanne, das den größten Teil des Jahres trocken liegt und nur nach starken Regenfällen Wasser führt.",
+    "beispiel": "",
+    "kategorie": "Nachhaltigkeit & Umwelt",
+    "stufe": "Q13"
+  },
+  {
+    "id": "wanderungsrate",
+    "begriff": "Wanderungsrate",
+    "definition": "Zahl der Zuwanderungen und Abwanderungen bezogen auf 1000 Einwohnerinnen und Einwohner.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "wanderungssaldo",
+    "begriff": "Wanderungssaldo",
+    "definition": "(auch Wanderungsbilanz oder Nettomigration) Differenz aus Zuwanderung und Abwanderung für ein bestimmtes Gebiet innerhalb eines bestimmten Zeitraumes.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "weg",
+    "begriff": "Weg",
+    "definition": "Einheit für das Verkehrsaufkommen (Anzahl der Fahrten bzw. zu Fuß gegangenen Strecken einer Person).",
+    "beispiel": "",
+    "kategorie": "Wirtschaft & Handel",
+    "stufe": "Q13"
+  },
+  {
+    "id": "wirtschaftsmigrant",
+    "begriff": "Wirtschaftsmigrant",
+    "definition": "Person, die ihr Land verlässt, um in einem anderen Land zu arbeiten und so ihre wirtschaftliche Situation zu verbessern.",
+    "beispiel": "",
+    "kategorie": "Migration",
+    "stufe": "Q13"
+  },
+  {
+    "id": "world-happiness-report",
+    "begriff": "World Happiness Report",
+    "definition": "Bericht, der eine Rangliste der Lebenszufriedenheit in den Ländern der Erde veröffentlicht.",
+    "beispiel": "",
+    "kategorie": "Gesellschaft & Ungleichheit",
+    "stufe": "Q13"
+  },
+  {
+    "id": "zentraler-ort",
+    "begriff": "Zentraler Ort",
+    "definition": "Gemeinde, meist Stadt, deren infrastrukturelle Einrichtungen nicht nur der eigenen Bevölkerung, sondern auch der eines näheren oder weiteren Umlandes dienen.",
+    "beispiel": "",
+    "kategorie": "Stadt & Urbanisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "ziele-nachhaltiger-entwicklung",
+    "begriff": "Ziele nachhaltiger Entwicklung",
+    "definition": "(engl.: Sustainable Development Goals, SDGs) politische Zielsetzungen der Vereinten Nationen für eine nachhaltige Entwicklung (15 Jahre Laufzeit von 2016 bis 2030).",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
+  },
+  {
+    "id": "zweite-welt",
+    "begriff": "Zweite Welt",
+    "definition": "siehe Dritte Welt.",
+    "beispiel": "",
+    "kategorie": "Entwicklung & Globalisierung",
+    "stufe": "Q13"
   }
 ]

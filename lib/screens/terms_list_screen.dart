@@ -20,6 +20,7 @@ class TermsListScreen extends StatefulWidget {
 class _TermsListScreenState extends State<TermsListScreen> {
   String _query = '';
   String _category = 'Alle';
+  String _stufe = 'Alle';
 
   @override
   Widget build(BuildContext context) {
@@ -34,7 +35,8 @@ class _TermsListScreenState extends State<TermsListScreen> {
           t.begriff.toLowerCase().contains(q) ||
           t.definition.toLowerCase().contains(q);
       final matchC = _category == 'Alle' || t.kategorie == _category;
-      return matchQ && matchC;
+      final matchS = _stufe == 'Alle' || t.stufe == _stufe;
+      return matchQ && matchC && matchS;
     }).toList();
 
     return Column(
@@ -70,6 +72,22 @@ class _TermsListScreenState extends State<TermsListScreen> {
             ],
           ),
         ),
+        Padding(
+          padding: const EdgeInsets.fromLTRB(16, 4, 16, 0),
+          child: Row(
+            children: [
+              const Text('Stufe: '),
+              ...['Alle', 'Q12', 'Q13'].map((s) => Padding(
+                    padding: const EdgeInsets.only(right: 8),
+                    child: FilterChip(
+                      label: Text(s),
+                      selected: _stufe == s,
+                      onSelected: (_) => setState(() => _stufe = s),
+                    ),
+                  )),
+            ],
+          ),
+        ),
         Expanded(
           child: ListView.builder(
             itemCount: filtered.length,
@@ -93,7 +111,9 @@ class _TermsListScreenState extends State<TermsListScreen> {
                           known ? TextDecoration.lineThrough : null,
                     ),
                   ),
-                  subtitle: Text(t.kategorie),
+                  subtitle: Text(t.stufe.isEmpty
+                      ? t.kategorie
+                      : '${t.stufe} · ${t.kategorie}'),
                   children: [
                     Padding(
                       padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
@@ -101,18 +121,20 @@ class _TermsListScreenState extends State<TermsListScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(t.definition),
-                          const SizedBox(height: 8),
-                          Container(
-                            width: double.infinity,
-                            padding: const EdgeInsets.all(10),
-                            decoration: BoxDecoration(
-                              color: Theme.of(context)
-                                  .colorScheme
-                                  .surfaceContainerHighest,
-                              borderRadius: BorderRadius.circular(8),
+                          if (t.beispiel.isNotEmpty) ...[
+                            const SizedBox(height: 8),
+                            Container(
+                              width: double.infinity,
+                              padding: const EdgeInsets.all(10),
+                              decoration: BoxDecoration(
+                                color: Theme.of(context)
+                                    .colorScheme
+                                    .surfaceContainerHighest,
+                                borderRadius: BorderRadius.circular(8),
+                              ),
+                              child: Text('Beispiel: ${t.beispiel}'),
                             ),
-                            child: Text('Beispiel: ${t.beispiel}'),
-                          ),
+                          ],
                         ],
                       ),
                     ),

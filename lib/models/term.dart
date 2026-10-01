@@ -4,6 +4,7 @@ class Term {
   final String definition;
   final String beispiel;
   final String kategorie;
+  final String stufe;
 
   const Term({
     required this.id,
@@ -11,6 +12,7 @@ class Term {
     required this.definition,
     required this.beispiel,
     required this.kategorie,
+    this.stufe = '',
   });
 
   factory Term.fromJson(Map<String, dynamic> json) {
@@ -20,6 +22,7 @@ class Term {
       definition: (json['definition'] ?? '').toString(),
       beispiel: (json['beispiel'] ?? '').toString(),
       kategorie: (json['kategorie'] ?? 'Allgemein').toString(),
+      stufe: (json['stufe'] ?? '').toString(),
     );
   }
 
@@ -29,5 +32,6 @@ class Term {
         'definition': definition,
         'beispiel': beispiel,
         'kategorie': kategorie,
+        'stufe': stufe,
       };
 }
