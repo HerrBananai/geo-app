@@ -27,7 +27,7 @@ class GeoApp extends StatelessWidget {
         ),
         scaffoldBackgroundColor: Colors.white,
         useMaterial3: true,
-        cardTheme: const CardTheme(
+        cardTheme: const CardThemeData(
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.all(Radius.circular(16)),
             side: BorderSide(color: DuoColors.edge, width: 2),
@@ -41,7 +41,7 @@ class GeoApp extends StatelessWidget {
         ),
         scaffoldBackgroundColor: DuoColors.nightBg,
         useMaterial3: true,
-        cardTheme: const CardTheme(
+        cardTheme: const CardThemeData(
           color: DuoColors.nightCard,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.all(Radius.circular(16)),
