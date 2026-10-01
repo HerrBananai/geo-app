@@ -201,13 +201,11 @@ html[data-design="duo"] .m-right.done { border-color: var(--green); }
 html[data-design="duo"] .m-right.err { border-color: var(--red); }
 html[data-design="duo"] .m-left:active, html[data-design="duo"] .m-right:active { transform: translateY(2px); }
 
-/* ---------- Header-Stats (nur Duo sichtbar) ---------- */
-.duo-stats { display: none; }
-html[data-design="duo"] .duo-stats { display: flex; align-items: center; gap: 10px; }
+/* ---------- Header-Stats (alle Designs) ---------- */
+.duo-stats { display: flex; align-items: center; gap: 10px; }
 .duo-pill { display: inline-flex; align-items: center; gap: 4px; font-weight: 800; font-size: 15px; }
 .duo-pill svg { width: 20px; height: 20px; }
 .duo-pill .flame-nr { color: #ff9600; }
-.duo-pill .gem-nr { color: var(--accent); }
 
 /* ---------- Rest ---------- */
 html[data-design="duo"] .pill-cat { background: var(--green-soft); color: var(--green); }

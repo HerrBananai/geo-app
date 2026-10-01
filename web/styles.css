@@ -111,7 +111,7 @@ html[data-theme="dark"] .b2 { background: #0b3a26; opacity: 0.6; }
   padding: 10px 20px;
 }
 .title-wrap { flex: 1; min-width: 0; }
-.title-wrap h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
+.title-wrap h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .subtitle { margin: 2px 0 0; font-size: 13px; color: var(--text-2); }
 
 .progress-pill {
