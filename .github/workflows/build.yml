@@ -11,10 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-          flutter-version: 3.24.0
       - name: Native-Hüllen erzeugen (falls fehlend)
         run: flutter create --project-name geo_app --org com.example.geoapp .
       - name: Abhängigkeiten
@@ -34,7 +37,6 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-          flutter-version: 3.24.0
       - name: Native-Hüllen erzeugen (falls fehlend)
         run: flutter create --project-name geo_app --org com.example.geoapp .
       - name: Abhängigkeiten

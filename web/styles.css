@@ -67,6 +67,10 @@ html[data-theme="dark"] {
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
+/* hidden-Attribut schlägt immer durch (sonst bleibt z. B. das
+   Install-Banner trotz Schließen sichtbar) */
+[hidden] { display: none !important; }
+
 html, body { height: 100%; }
 
 body {
